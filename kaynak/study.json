@@ -1,0 +1,561 @@
+{
+  "title": "Çözümlü örnekten yeni soruya",
+  "instructions": "Her gün dört eşleştirme var. Önce çözümlü örnekte kararı değiştiren sözcüğü, yapıyı ya da kanıt sınırını bul. Ardından eşindeki yeni soruyu çöz ve gerekçeni bir cümleyle yaz. Çözümü ancak bundan sonra aç. Bir hatayı ertesi gün seçeneklere bakmadan yeniden çöz.",
+  "days": [
+    {
+      "day": 1,
+      "name": "Cümle ve kanıt",
+      "focus": "Özne-yüklem, olay sırası, gönderim ve kanıt dili",
+      "items": [
+        {
+          "id": "G1-1Ö",
+          "pairId": "G1-1",
+          "type": "contrast",
+          "skill": "Özne-yüklem",
+          "prompt": "The proportion of island households that use rainwater tanks ___ been stable since April.",
+          "options": [
+            "has",
+            "have"
+          ],
+          "correct": 0,
+          "feedback": "Yüklemin öznesi tekil the proportion. Households, hem of grubunun içinde hem de that use cümleciğindeki use fiilinin dayanağıdır."
+        },
+        {
+          "id": "G1-1U",
+          "pairId": "G1-1",
+          "type": "transfer",
+          "skill": "Özne-yüklem",
+          "prompt": "The list of items that require a permit ___ on the second page.",
+          "options": [
+            "appear",
+            "appears"
+          ],
+          "correct": 1,
+          "feedback": "Ana yüklem appears, tekil list ile uyumludur. Require çoğul items için relative clause içinde çalışan ayrı yüklemdir."
+        },
+        {
+          "id": "G1-2Ö",
+          "pairId": "G1-2",
+          "type": "contrast",
+          "skill": "Zaman çıpası ve olay sırası",
+          "prompt": "When the poll closed, the observers had already signed the attendance sheet. What happened first?",
+          "options": [
+            "The poll closed.",
+            "The observers signed the attendance sheet."
+          ],
+          "correct": 1,
+          "feedback": "When the poll closed, geçmişteki zaman çıpasını kurar. Had already signed, imzaların bu noktaya gelmeden atıldığını belirtir. Yeni soruda aynı biçim sana iki olayı sıraya koyduracak."
+        },
+        {
+          "id": "G1-2U",
+          "pairId": "G1-2",
+          "type": "transfer",
+          "skill": "Olay sırası",
+          "prompt": "When the engineer arrived, the backup generator had already stopped. Hangisi doğru?",
+          "options": [
+            "Jeneratör mühendisin gelişinden önce durdu.",
+            "Mühendisin gelişi jeneratörün durmasından önceydi."
+          ],
+          "correct": 0,
+          "feedback": "Had already stopped geçmişteki görüş noktasından daha önce gerçekleşen olayı verir. When-cümleciği görüş noktasını sabitler."
+        },
+        {
+          "id": "G1-3Ö",
+          "pairId": "G1-3",
+          "type": "contrast",
+          "skill": "Gönderim ve yakınlık",
+          "prompt": "The sample tubes were placed beside a single thermometer. They were then photographed to document their colour. What was photographed?",
+          "options": [
+            "The sample tubes.",
+            "The thermometer."
+          ],
+          "correct": 0,
+          "feedback": "They ve their çoğul tubes ile uyumludur. Yakındaki thermometer tekildir. Yeni soruda sayıdan sonra iyelik ve karşıtlık ilişkisinin de göndergeleri nasıl ayırdığına bak."
+        },
+        {
+          "id": "G1-3U",
+          "pairId": "G1-3",
+          "type": "transfer",
+          "skill": "Gönderim",
+          "prompt": "The reviewers rated two proposals. Their scores were made public, but the proposals themselves remained confidential. What became public?",
+          "options": [
+            "The ratings assigned by the reviewers.",
+            "The full text of the two proposals."
+          ],
+          "correct": 0,
+          "feedback": "Their scores bağlamda hakemlerin verdiği puanlardır. But sonrasındaki remained confidential, tekliflerin kendisini açıkça dışarıda tutar."
+        },
+        {
+          "id": "G1-4Ö",
+          "pairId": "G1-4",
+          "type": "contrast",
+          "skill": "Bulguyu yorumdan ayırmak",
+          "prompt": "No differences were detected in the pilot study. Hangi Türkçe cümle, yazarın kanıtının sınırını korur?",
+          "options": [
+            "Pilot çalışma, grupların eşdeğer olduğunu kanıtladı.",
+            "Pilot çalışmada fark saptanmadı."
+          ],
+          "correct": 1,
+          "feedback": "Detected sözcüğü sonucu yapılan saptamayla sınırlar. Eşdeğerliğin gösterilmesi için uygun tasarım ve önceden belirlenmiş bir karar eşiği gerekir. Yeni soruda after sözcüğünün benzer biçimde hangi tür iddiaya izin verdiğine bak."
+        },
+        {
+          "id": "G1-4U",
+          "pairId": "G1-4",
+          "type": "transfer",
+          "skill": "Kanıt türü",
+          "prompt": "The analysts reported that calls fell after the fee changed. They did not examine why. Which inference is supported?",
+          "options": [
+            "The fee change caused call volume to decline.",
+            "Call volume declined after the change."
+          ],
+          "correct": 1,
+          "feedback": "After olayların sırasını gösterir. Neden incelenmediği için kronolojik ardışıklık nedensel hükme çevrilemez."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "name": "Neden, koşul ve değişim",
+      "focus": "Gerekli-yeterli koşul, modal çıkarım, bağlaç ve nedensellik",
+      "items": [
+        {
+          "id": "G2-1Ö",
+          "pairId": "G2-1",
+          "type": "contrast",
+          "skill": "Koşul yönü",
+          "prompt": "A sealed crate may be opened only if the safety officer is present. What is required for opening?",
+          "options": [
+            "The officer’s presence alone guarantees permission to open the crate.",
+            "The safety officer must be present."
+          ],
+          "correct": 1,
+          "feedback": "Only if, açma izni için gerekli bir koşul getirir. Yetkilinin bulunması, başka gerekliliklerin karşılandığını göstermez."
+        },
+        {
+          "id": "G2-1U",
+          "pairId": "G2-1",
+          "type": "transfer",
+          "skill": "Unless",
+          "prompt": "The form will be rejected unless you attach a receipt. What follows from the sentence?",
+          "options": [
+            "Without a receipt, the form will be rejected.",
+            "With a receipt, the form is guaranteed to be accepted."
+          ],
+          "correct": 0,
+          "feedback": "Unless burada “fiş eklenmezse” koşulunu kurar. Fişle birlikte başka kabul ölçütlerinin de karşılanması gerekebilir."
+        },
+        {
+          "id": "G2-2Ö",
+          "pairId": "G2-2",
+          "type": "contrast",
+          "skill": "Olasılık ve kesinlik",
+          "prompt": "The ink may have faded during storage. Hangisi anlamı korur?",
+          "options": [
+            "Mürekkep depolama sırasında solmuş olabilir.",
+            "Mürekkep depolama sırasında mutlaka solmuştur."
+          ],
+          "correct": 0,
+          "feedback": "May have faded geçmişe dönük olasılıktır. “Mutlaka” bu olasılığı daha güçlü bir yargıya yükseltir."
+        },
+        {
+          "id": "G2-2U",
+          "pairId": "G2-2",
+          "type": "transfer",
+          "skill": "Olasılık engeli",
+          "prompt": "The warehouse lights were off. The night shift might still have been working in the yard. What remains possible?",
+          "options": [
+            "The night staff were certainly working outdoors.",
+            "The night staff may have been working outdoors."
+          ],
+          "correct": 1,
+          "feedback": "Might have been working, geçmişte sürmüş olabilecek eylemdir. Still, ışıkların sönük olmasına rağmen bu ihtimali açık tutar."
+        },
+        {
+          "id": "G2-3Ö",
+          "pairId": "G2-3",
+          "type": "contrast",
+          "skill": "Bağlaç ve tamamlayıcı",
+          "prompt": "___ the mirror was scratched, it could still be used for practice.",
+          "options": [
+            "Although",
+            "Despite"
+          ],
+          "correct": 0,
+          "feedback": "Although sonrasında the mirror was scratched tam bir cümleciktir. Despite bir isim grubuyla veya despite the fact that gibi bir yapıyla çalışır."
+        },
+        {
+          "id": "G2-3U",
+          "pairId": "G2-3",
+          "type": "transfer",
+          "skill": "Edat ve neden",
+          "prompt": "The flight was cancelled ___ a fault in the navigation system.",
+          "options": [
+            "because",
+            "because of"
+          ],
+          "correct": 1,
+          "feedback": "A fault in the navigation system isim grubudur. Because doğrudan bu grubun önünde kullanılamaz ve normalde bir cümlecik alır."
+        },
+        {
+          "id": "G2-4Ö",
+          "pairId": "G2-4",
+          "type": "contrast",
+          "skill": "Ödünleme",
+          "prompt": "Even though the lake looks clear, swimming is prohibited. Yazar neyi karşı karşıya getirir?",
+          "options": [
+            "Berrak suyun doğrudan neden olduğu yasağı.",
+            "Suyun berrak görünmesinin uyandırdığı beklenti ile yüzme yasağını."
+          ],
+          "correct": 1,
+          "feedback": "Even though, görünüşe dayanarak oluşabilecek beklentiye ters düşen yasağı tanıtır. Neden ilişkisi kurulmaz."
+        },
+        {
+          "id": "G2-4U",
+          "pairId": "G2-4",
+          "type": "transfer",
+          "skill": "Beklenmedik durum",
+          "prompt": "The bookshop is usually busy on Saturdays. ___, on the first Saturday after its reopening, only three customers came in. İkinci cümleyi ilk cümlenin yarattığı beklentiye bağla.",
+          "options": [
+            "Nevertheless",
+            "Consequently"
+          ],
+          "correct": 0,
+          "feedback": "Usually busy, yüksek müşteri sayısı beklentisi yaratır. Only three customers bu beklentiye ters düşer. Consequently, normal yoğunluğun üç müşteriye yol açtığını söyleyecek bir neden-sonuç bağı ister."
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "name": "İç içe yapılar ve kaynaklar",
+      "focus": "İlgi cümlecikleri, fiil tamamlayıcıları, özne kontrolü ve atıf",
+      "items": [
+        {
+          "id": "G3-1Ö",
+          "pairId": "G3-1",
+          "type": "contrast",
+          "skill": "Virgül ve küme",
+          "prompt": "The invoices that arrived on Monday were processed. Which set does the subject identify?",
+          "options": [
+            "The invoices that arrived on Monday.",
+            "All the invoices, with Monday as extra information."
+          ],
+          "correct": 0,
+          "feedback": "Virgülsüz that arrived on Monday, ana cümlenin öznesini pazartesi gelen faturalarla sınırlar. Diğer faturaların işlenip işlenmediğini ayrıca söylemez. Yeni soruda virgüller bu işi değiştiriyor."
+        },
+        {
+          "id": "G3-1U",
+          "pairId": "G3-1",
+          "type": "transfer",
+          "skill": "Anlamlı noktalama",
+          "prompt": "Mira met her brothers, who lived abroad. Hangisi cümlenin sunuşuna uyar?",
+          "options": [
+            "Yalnız yurt dışında yaşayan kardeşler seçilir, burada yaşayanlar anlatımdan çıkarılır.",
+            "Sözü edilen kardeşlerin yurt dışında yaşadığı ek bilgi olarak verilir."
+          ],
+          "correct": 1,
+          "feedback": "Virgülle ayrılan non-restrictive cümlecik, her brothers ile sunulan gruba ek bilgi getirir. Kardeşleri yerleşim yerine göre ayırmaz."
+        },
+        {
+          "id": "G3-2Ö",
+          "pairId": "G3-2",
+          "type": "contrast",
+          "skill": "Zaman ilişkisi",
+          "prompt": "Having checked the serial numbers, the clerk sealed the crate. Hangi eylem önce tamamlandı?",
+          "options": [
+            "Seri numaralarını kontrol etmek.",
+            "Sandığı mühürlemek."
+          ],
+          "correct": 0,
+          "feedback": "Having checked, sealed eylemine göre öncelik kurar. İki eylemin öznesi de the clerk’tür."
+        },
+        {
+          "id": "G3-2U",
+          "pairId": "G3-2",
+          "type": "transfer",
+          "skill": "Participle ve örtük özne",
+          "prompt": "Having checked the cable with a portable scanner, ___ recommended shutting down the lift.",
+          "options": [
+            "the electrical report",
+            "the electricians"
+          ],
+          "correct": 1,
+          "feedback": "Having checked’in örtük öznesi ana cümlenin öznesiyle eşleşir. Bir rapor, kapatma önerisi içerebilir. Ancak tarayıcıyla kabloyu kontrol eden rapor olamaz."
+        },
+        {
+          "id": "G3-3Ö",
+          "pairId": "G3-3",
+          "type": "contrast",
+          "skill": "Atıf",
+          "prompt": "The supplier claims the sample is authentic. Which statement preserves the source of the claim?",
+          "options": [
+            "The sample’s authenticity has been independently confirmed.",
+            "The supplier says the sample is authentic."
+          ],
+          "correct": 1,
+          "feedback": "Claims, önermeyi tedarikçiye bağlar. Bağımsız doğrulama ve yazarın onayı cümlede yer almaz."
+        },
+        {
+          "id": "G3-3U",
+          "pairId": "G3-3",
+          "type": "transfer",
+          "skill": "Kaynağın rolü",
+          "prompt": "According to the union, the wage freeze could be lifted in June. Hangisi doğru?",
+          "options": [
+            "Sendikaya göre ücret dondurma uygulaması haziranda kaldırılabilir.",
+            "Sendika haziranda ücretleri dondurma kararı aldı."
+          ],
+          "correct": 0,
+          "feedback": "According to sendikayı bilginin kaynağı yapar. Could be lifted olasılıklı edilgendir ve kararın failini vermez."
+        },
+        {
+          "id": "G3-4Ö",
+          "pairId": "G3-4",
+          "type": "contrast",
+          "skill": "Ettirgenlik",
+          "prompt": "The landlord had the locks replaced. Who definitely arranged the replacement?",
+          "options": [
+            "The landlord.",
+            "The person who previously installed the locks."
+          ],
+          "correct": 0,
+          "feedback": "Had the locks replaced, değişimi ev sahibinin organize ettiğini bildirir. Kilitleri kimin değiştirdiğini açıkça belirtmez."
+        },
+        {
+          "id": "G3-4U",
+          "pairId": "G3-4",
+          "type": "transfer",
+          "skill": "Tamamlayıcı ve sonuç",
+          "prompt": "The manager made the trainees repeat the safety drill. Which statement follows?",
+          "options": [
+            "The manager repeated the drill instead of the trainees.",
+            "The trainees repeated the drill at the manager’s insistence."
+          ],
+          "correct": 1,
+          "feedback": "Make + nesne + yalın mastar yapısında repeat’i trainees gerçekleştirir. Manager eylemi yaptıran taraftır."
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "name": "Savlar, kapsam ve çeviri",
+      "focus": "Sınırlayıcılar, vurgu, karşılaştırma paydası ve kanıt eşiği",
+      "items": [
+        {
+          "id": "G4-1Ö",
+          "pairId": "G4-1",
+          "type": "contrast",
+          "skill": "Olumsuzluğun kapsamı",
+          "prompt": "Not all of the buoys were visible from the road. Hangisi verilen mantıksal sınırı korur?",
+          "options": [
+            "Şamandıraların hiçbiri yoldan görünmüyordu.",
+            "Şamandıraların en az biri yoldan görünmüyordu."
+          ],
+          "correct": 1,
+          "feedback": "Not all, “hepsi” niceleyicisini olumsuzlar ve istisna bulunduğunu söyler. “Hiçbiri görünmüyordu” bütün şamandıraları görünmeyen kümeye koyar."
+        },
+        {
+          "id": "G4-1U",
+          "pairId": "G4-1",
+          "type": "transfer",
+          "skill": "Olumsuzluğun kapsamı",
+          "prompt": "Not every sector experienced a decline in demand. Hangi sonuç zorunlu?",
+          "options": [
+            "En az bir sektörde talep azalmadı.",
+            "En az bir sektörde talep arttı."
+          ],
+          "correct": 0,
+          "feedback": "Not every, azalma göstermeyen en az bir sektör olduğunu söyler. Talebin sabit kalması da azalmama koşulunu sağlar."
+        },
+        {
+          "id": "G4-2Ö",
+          "pairId": "G4-2",
+          "type": "contrast",
+          "skill": "Cleft ve odak",
+          "prompt": "It was the revised timetable, not the extra staff, that shortened the queues. Which element receives contrastive emphasis?",
+          "options": [
+            "The revised timetable.",
+            "The shortened queues."
+          ],
+          "correct": 0,
+          "feedback": "It was … that çerçevesi revised timetable’ı öne çıkarır. Not the extra staff, karşılaştırılan diğer açıklamayı dışarıda bırakır. The queues, shortened fiilinin nesnesidir."
+        },
+        {
+          "id": "G4-2U",
+          "pairId": "G4-2",
+          "type": "transfer",
+          "skill": "Cleft ve odak",
+          "prompt": "Hangi çeviri Türkçe cümledeki zaman vurgusunu korur? Ölçüm hatası ilk kontrolde değil, ikinci kontrolde fark edildi.",
+          "options": [
+            "It was a measurement error, rather than a calculation error, that was noticed during the second check.",
+            "It was during the second check, not the first, that the measurement error was noticed."
+          ],
+          "correct": 1,
+          "feedback": "It was during the second check, not the first çerçevesi ikinci kontrolü ilk kontrolle karşı karşıya getirir. Çeldirici odak noktasını hata türüne çevirir ve Türkçe cümlede bulunmayan bir hesap hatası karşılaştırması ekler."
+        },
+        {
+          "id": "G4-3Ö",
+          "pairId": "G4-3",
+          "type": "contrast",
+          "skill": "Karşılaştırma paydası",
+          "prompt": "The port handled fewer ships than last year, but it moved more cargo per ship. Which conclusion follows?",
+          "options": [
+            "The total amount of cargo rose.",
+            "The amount of cargo moved per ship rose."
+          ],
+          "correct": 1,
+          "feedback": "More cargo per ship, gemi başına miktarın arttığını doğrudan söyler. Gemi sayısı düşerken gemi başına yük artıyorsa toplam değişimin yönü iki değişimin büyüklüğüne bağlıdır."
+        },
+        {
+          "id": "G4-3U",
+          "pairId": "G4-3",
+          "type": "transfer",
+          "skill": "Karşılaştırma paydası",
+          "prompt": "The clinic issued fewer referrals, but a larger proportion of those referrals were completed. Hangi bilgi metinden doğrudan çıkar?",
+          "options": [
+            "Tamamlanan sevklerin sayısı yükseldi.",
+            "Düzenlenen sevklerin tamamlanma oranı yükseldi."
+          ],
+          "correct": 1,
+          "feedback": "A larger proportion, düzenlenen sevkler içindeki tamamlananların oranını verir. Toplam düzenlenen sevk sayısı düştüğü için bu oran artarken tamamlananların sayısı artabilir, sabit kalabilir ya da azalabilir."
+        },
+        {
+          "id": "G4-4Ö",
+          "pairId": "G4-4",
+          "type": "contrast",
+          "skill": "Kanıt eşiği",
+          "prompt": "The field trial found no clear evidence that the traps reduced crop damage. Hangi çeviri kanıt eşiğini korur?",
+          "options": [
+            "Saha denemesinde, tuzakların ürün zararını azalttığına ilişkin açık kanıt bulunmadı.",
+            "Saha denemesi, tuzakların ürün zararını azaltmadığını gösterdi."
+          ],
+          "correct": 0,
+          "feedback": "No clear evidence that …, iddiayı destekleyen açık kanıtın bulunmadığını söyler. İşe yaramadığını gösteren kanıt bulunduğu sonucunu vermez."
+        },
+        {
+          "id": "G4-4U",
+          "pairId": "G4-4",
+          "type": "transfer",
+          "skill": "Kanıt eşiği",
+          "prompt": "Ön bulgular, uyarıların ilk kez gelen ziyaretçileri daha fazla etkileyebileceğine işaret ediyor. Hangi çeviri sınırlamaları korur?",
+          "options": [
+            "Preliminary findings suggest that warnings may have a greater effect on first-time visitors.",
+            "The findings establish that warnings have a greater effect on visitors in general."
+          ],
+          "correct": 0,
+          "feedback": "Preliminary, suggest ve may, kanıtın aşamasını ve iddianın gücünü korur. First-time visitors da ilgili grubu sınırlar. İkinci çeviri hem kesinliği hem genellemeyi artırır."
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "name": "Bütünleşik sınav aktarımı",
+      "focus": "Paragraf tamamlama, çıkarım, anlamca en yakın cümle ve diyalog",
+      "items": [
+        {
+          "id": "G5-1Ö",
+          "pairId": "G5-1",
+          "type": "contrast",
+          "skill": "Paragraf tamamlama",
+          "prompt": "A town opened a tram stop beside the hospital to make outpatient visits easier. In the first month, the stop became popular with hospital staff, but passenger surveys found that most patients still arrived by car. ___\nParagrafın düşüncesini en iyi tamamlayan cümleyi seç.",
+          "options": [
+            "High use of the stop, therefore, did not in itself show that access had improved for the intended group.",
+            "The surveys therefore confirmed that the tram had become the principal means of transport for outpatients."
+          ],
+          "correct": 0,
+          "feedback": "Therefore, önceki iki gözlemden bir sonuç istemektedir. Kullanım, çalışanlar arasında yaygındır. Hedef grup olan hastaların çoğu hâlâ otomobille gelmiştir. Hedef kitleyi değiştiren sonuç, verilere ters düşer."
+        },
+        {
+          "id": "G5-1U",
+          "pairId": "G5-1",
+          "type": "transfer",
+          "skill": "Paragraf tamamlama",
+          "prompt": "The licence desk replaced its printed forms with a mobile portal. Average processing time fell. Yet the average included only submitted applications, and several applicants without smartphones had abandoned the process. ___\nParagrafın düşüncesini en iyi tamamlayan cümleyi seç.",
+          "options": [
+            "The decline in recorded processing time showed that applicants without smartphones were the main beneficiaries.",
+            "Faster processing of recorded applications did not establish that the service had become easier to access."
+          ],
+          "correct": 1,
+          "feedback": "Yet, hız ölçümünün sınırını bildirir. Yalnız kayda giren başvurular ortalamaya dâhildir. Başvurusunu tamamlayamayanların deneyimi bu sayıdan okunamaz. Çeldirici ise en çok onların yararlandığını varsayar."
+        },
+        {
+          "id": "G5-2Ö",
+          "pairId": "G5-2",
+          "type": "contrast",
+          "skill": "Çıkarım",
+          "prompt": "A band of native grasses attracted more butterflies than bare ground did. The researchers counted butterflies for ten minutes at each site but did not track individuals. Which conclusion is warranted?",
+          "options": [
+            "Butterflies spent longer at the grass sites than at the bare sites.",
+            "More butterflies were observed at the grass sites during the counting periods."
+          ],
+          "correct": 1,
+          "feedback": "Ten minutes, gözlem oturumunun süresidir. Tek tek kelebeklerin kalış süresi ölçülmemiştir. Sayımla süreyi birbirinden ayır."
+        },
+        {
+          "id": "G5-2U",
+          "pairId": "G5-2",
+          "type": "transfer",
+          "skill": "Çıkarım",
+          "prompt": "During a two-week trial of an audio reminder, fewer practice appointments were missed among patients who opted in than in the two weeks before the trial. The other patients were not included in the comparison. Which conclusion stays within the data?",
+          "options": [
+            "The number of missed appointments fell among the patients who opted in.",
+            "The reminder would also reduce missed appointments among patients who opted out."
+          ],
+          "correct": 0,
+          "feedback": "Who opted in, izlenen grubun sınırını verir. İki dönem arasındaki azalma yalnız bu grupta gözlenmiştir. Hatırlatıcının diğer hastalarda ne yapacağını karşılaştırma olmadan söyleyemeyiz."
+        },
+        {
+          "id": "G5-3Ö",
+          "pairId": "G5-3",
+          "type": "contrast",
+          "skill": "Anlamca en yakın cümle",
+          "prompt": "The planting permit will be issued only after the neighbour has been notified. Which sentence preserves timing and condition?",
+          "options": [
+            "The permit will be issued as soon as the neighbour is notified.",
+            "The neighbour must be notified before the permit can be issued."
+          ],
+          "correct": 1,
+          "feedback": "Only after, bildirimden önce izin verilmesini dışlar. As soon as, bildirimin yeterli olduğunu ve iznin hemen çıkacağını ekler."
+        },
+        {
+          "id": "G5-3U",
+          "pairId": "G5-3",
+          "type": "transfer",
+          "skill": "Anlamca en yakın cümle",
+          "prompt": "The new sensor is unlikely to detect brief pressure spikes unless it is set to its highest sampling rate. Which sentence preserves condition and certainty?",
+          "options": [
+            "Without the highest sampling rate, the sensor probably will not detect brief pressure spikes.",
+            "At the highest sampling rate, the sensor is certain to detect brief pressure spikes."
+          ],
+          "correct": 0,
+          "feedback": "Unless, yüksek örnekleme hızının yokluğunda geçerli yargıyı belirtir. Unlikely, düşük olasılıktır. Cümle, hız yükseltilince tespitin kesinleşeceğini söylemez."
+        },
+        {
+          "id": "G5-4Ö",
+          "pairId": "G5-4",
+          "type": "contrast",
+          "skill": "Diyalog tamamlama",
+          "prompt": "Editor: Can we say the exhibition attracted a younger audience?\nAnalyst: The ticket data show a lower average age, but they cover advance bookings only.\nEditor: ___\nAnalyst: Exactly. We have no age data for visitors who bought tickets at the door.",
+          "options": [
+            "So the ticket data establish that the average age of all visitors fell.",
+            "So we can say the average age was lower among advance bookers, the only group covered by these data."
+          ],
+          "correct": 1,
+          "feedback": "Exactly, editörün ara sonucunu onaylar. Son replik kapıdan bilet alanları gözlem dışı bırakır. Bu yüzden yaş karşılaştırması önceden bilet alanlarla sınırlıdır."
+        },
+        {
+          "id": "G5-4U",
+          "pairId": "G5-4",
+          "type": "transfer",
+          "skill": "Diyalog tamamlama",
+          "prompt": "Engineer: Have we established that the cracks formed before the bridge reopened?\nInspector: The first photographs after reopening show the cracks, but there are no usable photographs from before.\nEngineer: ___\nInspector: Right. The photographs establish when the cracks were first documented.",
+          "options": [
+            "So we know they were visible then, but the photographs do not tell us when they formed.",
+            "So the photographs show that reopening the bridge caused the cracks."
+          ],
+          "correct": 0,
+          "feedback": "Right, ardından gelen düzeltmeyle tutarlı olmalıdır. Bir oluşum ilk kayda girdiği anda çoktan gerçekleşmiş olabilir. Fotoğraflar görünürlük için kanıt sunar, oluşma zamanı veya nedeni için yeterli bilgi sunmaz."
+        }
+      ]
+    }
+  ]
+}

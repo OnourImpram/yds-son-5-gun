@@ -1,0 +1,1318 @@
+{
+  "status": "complete_self_audited",
+  "files": [
+    "grammar_day1.md",
+    "grammar_day2.md",
+    "grammar_day3.md",
+    "grammar_day4.md",
+    "grammar_day5.md"
+  ],
+  "diagram_contract": "Markdown uses ![caption](diagram:key). All diagrams are exact educational schematics, to be rendered as vector artwork by parent. No generated bitmap needed for diagrams.",
+  "diagrams": [
+    {
+      "key": "g1_omurga",
+      "type": "flow",
+      "title": "Cümlenin omurgası",
+      "nodes": [
+        "The quality",
+        "of the responses",
+        "is improving"
+      ],
+      "edges": [
+        [
+          0,
+          2
+        ]
+      ],
+      "notes": [
+        "Baş isim: quality (tekil)",
+        "Of grubu: öznenin sayısını değiştirmez",
+        "Çekimli yardımcı: is · Fiil grubu: is improving"
+      ]
+    },
+    {
+      "key": "g1_isim_kapisi",
+      "type": "grid",
+      "title": "İsim grubunun kapısı",
+      "columns": [
+        "Tekil sayılabilir",
+        "Çoğul sayılabilir",
+        "Sayılamayan"
+      ],
+      "rows": [
+        [
+          "a method / the method",
+          "methods / the methods",
+          "evidence / the evidence"
+        ],
+        [
+          "Bir belirleyici genellikle gerekir",
+          "Genel anlamda sıfır artikel olabilir",
+          "Genel anlamda sıfır artikel olabilir"
+        ]
+      ]
+    },
+    {
+      "key": "g1_zaman_gorunus",
+      "type": "grid",
+      "title": "Zaman ve görünüş iki ayrı seçimdir",
+      "columns": [
+        "Simple",
+        "Continuous",
+        "Perfect",
+        "Perfect continuous"
+      ],
+      "rows": [
+        [
+          "Olay veya durum",
+          "Süreç içinden bakış",
+          "Referanstan geriye bakış",
+          "Geriye bakışta süre"
+        ],
+        [
+          "worked",
+          "was working",
+          "had worked",
+          "had been working"
+        ],
+        [
+          "works",
+          "is working",
+          "has worked",
+          "has been working"
+        ],
+        [
+          "will work",
+          "will be working",
+          "will have worked",
+          "will have been working"
+        ]
+      ]
+    },
+    {
+      "key": "g1_until_by",
+      "type": "contrast",
+      "title": "Until ve by",
+      "panels": [
+        {
+          "label": "UNTIL Friday",
+          "meaning": "Saklama işi cumaya kadar sürer",
+          "sentence": "Keep the records until Friday."
+        },
+        {
+          "label": "BY Friday",
+          "meaning": "Gönderme işi en geç cuma tamamlanır",
+          "sentence": "Send the records by Friday."
+        }
+      ]
+    },
+    {
+      "key": "g1_passive",
+      "type": "contrast",
+      "title": "Aynı olay farklı odak",
+      "panels": [
+        {
+          "label": "ETKEN",
+          "sentence": "The technician repaired the sensor.",
+          "meaning": "Yapan: technician | Etkilenen: sensor"
+        },
+        {
+          "label": "EDİLGEN",
+          "sentence": "The sensor was repaired by the technician.",
+          "meaning": "Yapan: technician | Etkilenen: sensor"
+        }
+      ]
+    },
+    {
+      "key": "g2_modal",
+      "type": "grid",
+      "title": "Modal sözcüğü iki ayrı soruyla oku",
+      "columns": [
+        "Olay hakkında çıkarım",
+        "Eylem hakkında kural"
+      ],
+      "rows": [
+        [
+          "It must be accurate.",
+          "You must check it."
+        ],
+        [
+          "Kesinliğe yakın çıkarım",
+          "Zorunluluk"
+        ],
+        [
+          "It cannot be accurate.",
+          "You must not change it."
+        ],
+        [
+          "Olumsuz çıkarım",
+          "Yasak"
+        ]
+      ]
+    },
+    {
+      "key": "g2_modal_perfect",
+      "type": "flow",
+      "title": "Geçmiş hakkında çıkarım ve edilgenlik",
+      "nodes": [
+        "may / might / must / cannot",
+        "have",
+        "been",
+        "used"
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "notes": [
+        "Modal: iddianın kuvveti",
+        "have + V3: geçmişe bakış",
+        "been + V3: edilgen rol"
+      ]
+    },
+    {
+      "key": "g2_conditional",
+      "type": "grid",
+      "title": "Koşul ve sonuç zamanını ayrı seç",
+      "columns": [
+        "Koşul",
+        "Sonuç",
+        "Örnek"
+      ],
+      "rows": [
+        [
+          "Olası gelecek",
+          "Olası gelecek",
+          "If it rains, we will stay."
+        ],
+        [
+          "Varsayımsal şimdi",
+          "Varsayımsal şimdi",
+          "If we had data, we could decide."
+        ],
+        [
+          "Karşıolgusal geçmiş",
+          "Karşıolgusal geçmiş",
+          "If we had checked, we would have noticed."
+        ],
+        [
+          "Karşıolgusal geçmiş",
+          "Varsayımsal şimdi",
+          "If we had trained, we would be ready."
+        ]
+      ]
+    },
+    {
+      "key": "g2_connector",
+      "type": "grid",
+      "title": "Anlam aynı olsa da yapı farklı olabilir",
+      "columns": [
+        "Cümlecik",
+        "İsim veya Ving",
+        "Bağımsız cümle bağı"
+      ],
+      "rows": [
+        [
+          "because + S + V",
+          "because of + noun",
+          "therefore / consequently"
+        ],
+        [
+          "although + S + V",
+          "despite + noun / Ving",
+          "however / nevertheless"
+        ],
+        [
+          "so that + S + modal",
+          "in order to + V",
+          "as a result (sonuç)"
+        ]
+      ]
+    },
+    {
+      "key": "g2_cause_condition",
+      "type": "contrast",
+      "title": "Gerekçe ile koşul ayrımı",
+      "panels": [
+        {
+          "label": "GIVEN THAT",
+          "sentence": "Given that the records are incomplete, we cannot decide.",
+          "meaning": "Eksiklik kabul edilmiş gerekçe"
+        },
+        {
+          "label": "PROVIDED THAT",
+          "sentence": "We can decide provided that the records are complete.",
+          "meaning": "Tamlık yerine gelmesi gereken koşul"
+        }
+      ]
+    },
+    {
+      "key": "g2_comparison",
+      "type": "grid",
+      "title": "Karşılaştırmanın ölçüsünü koru",
+      "columns": [
+        "Yapı",
+        "Anlam"
+      ],
+      "rows": [
+        [
+          "more accurate than",
+          "daha doğru"
+        ],
+        [
+          "as accurate as",
+          "aynı ölçüde doğru"
+        ],
+        [
+          "not as accurate as",
+          "o kadar doğru değil"
+        ],
+        [
+          "much more accurate",
+          "çok daha doğru"
+        ],
+        [
+          "no more accurate than",
+          "daha doğru değil"
+        ],
+        [
+          "rather than",
+          "... yerine / ... değil de"
+        ]
+      ]
+    },
+    {
+      "key": "g3_relative",
+      "type": "contrast",
+      "title": "Hangi grup ve ek bilgi",
+      "panels": [
+        {
+          "label": "TANIMLAYICI",
+          "sentence": "The reports that were revised are ready.",
+          "meaning": "Düzeltilmiş raporlar alt kümesi"
+        },
+        {
+          "label": "EK BİLGİ",
+          "sentence": "The reports, which were revised, are ready.",
+          "meaning": "Bağlamdaki raporlar hazır; ayrıca düzeltilmişler"
+        }
+      ]
+    },
+    {
+      "key": "g3_clause_roles",
+      "type": "grid",
+      "title": "That what whether",
+      "columns": [
+        "that",
+        "what",
+        "whether"
+      ],
+      "rows": [
+        [
+          "that + tam önerme",
+          "what + içeride eksik görev",
+          "whether + iki olasılık"
+        ],
+        [
+          "I know that it failed.",
+          "I know what failed.",
+          "I know whether it failed."
+        ],
+        [
+          "Başarısız olduğu bilgisi",
+          "Başarısız olan şey",
+          "Olup olmadığı bilgisi"
+        ]
+      ]
+    },
+    {
+      "key": "g3_nonfinite",
+      "type": "grid",
+      "title": "Kısaltılmış yapıda rol ve zaman",
+      "columns": [
+        "Etken",
+        "Edilgen"
+      ],
+      "rows": [
+        [
+          "people working",
+          "records stored"
+        ],
+        [
+          "having completed",
+          "having been completed"
+        ],
+        [
+          "İşi yapan özne",
+          "İşten etkilenen özne"
+        ]
+      ]
+    },
+    {
+      "key": "g3_gerund",
+      "type": "contrast",
+      "title": "Stop ve remember ile yön değişimi",
+      "panels": [
+        {
+          "label": "GERUND",
+          "sentence": "stop checking / remember checking",
+          "meaning": "Kontrolü bırak / geçmiş kontrolü hatırla"
+        },
+        {
+          "label": "TO INFINITIVE",
+          "sentence": "stop to check / remember to check",
+          "meaning": "Kontrol etmek için dur / kontrol etmeyi unutma"
+        }
+      ]
+    },
+    {
+      "key": "g3_reporting",
+      "type": "flow",
+      "title": "Raporlama ile olay zamanı",
+      "nodes": [
+        "is believed",
+        "to have been",
+        "damaged"
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "notes": [
+        "Şimdiki inanış veya rapor",
+        "Daha önceki edilgen olay",
+        "Zarar görme"
+      ]
+    },
+    {
+      "key": "g4_inversion",
+      "type": "contrast",
+      "title": "Olumsuz unsur başa gelince",
+      "panels": [
+        {
+          "label": "DÜZ SIRA",
+          "sentence": "They rarely revise the schedule.",
+          "meaning": "Özne + fiil"
+        },
+        {
+          "label": "DEVRİK SIRA",
+          "sentence": "Rarely do they revise the schedule.",
+          "meaning": "Sınırlayıcı + yardımcı + özne + fiil"
+        }
+      ]
+    },
+    {
+      "key": "g4_scope",
+      "type": "grid",
+      "title": "Olumsuzluğun kapsamı",
+      "columns": [
+        "İfade",
+        "Dışlanan şey"
+      ],
+      "rows": [
+        [
+          "not all",
+          "hepsinin birden olması"
+        ],
+        [
+          "none",
+          "tek birinin bile olması"
+        ],
+        [
+          "not necessarily",
+          "zorunlu olarak sonuç çıkması"
+        ],
+        [
+          "not until",
+          "verilen sınırdan önce olması"
+        ],
+        [
+          "only if",
+          "koşul sağlanmadan sonuç olması"
+        ]
+      ]
+    },
+    {
+      "key": "g4_prepositions",
+      "type": "grid",
+      "title": "İlişki okları",
+      "columns": [
+        "Kaynak veya neden",
+        "Sonuç veya katkı",
+        "Konu veya bakış"
+      ],
+      "rows": [
+        [
+          "result from / arise from",
+          "result in / contribute to",
+          "with regard to / in terms of"
+        ],
+        [
+          "X → neden",
+          "X → sonuç",
+          "X → değerlendirme alanı"
+        ]
+      ]
+    },
+    {
+      "key": "g4_translation",
+      "type": "flow",
+      "title": "Çeviride beş sabit",
+      "nodes": [
+        "Kim ve ne",
+        "Zaman ve görünüş",
+        "Olasılık ve zorunluluk",
+        "Kapsam ve mantık",
+        "Bilgi odağı"
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "notes": [
+        "Kelimeler değişebilir; bu ilişkiler korunur."
+      ]
+    },
+    {
+      "key": "g5_integrated",
+      "type": "grid",
+      "title": "Tek cümlede birlikte denetle",
+      "columns": [
+        "Biçim",
+        "Anlam",
+        "Kanıt sınırı"
+      ],
+      "rows": [
+        [
+          "Ana fiil ve yan yapılar",
+          "Yapan ve etkilenen",
+          "İddia mı çıkarım mı"
+        ],
+        [
+          "Zaman ve görünüş",
+          "Koşul ve neden",
+          "Olasılık mı kesinlik mi"
+        ],
+        [
+          "Bağlayıcı ve gönderim",
+          "Miktar ve olumsuzluk",
+          "Metinde var mı ek mi"
+        ]
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Cambridge Grammar past perfect contrast",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/past-perfect-simple-or-past-perfect-continuous",
+      "verified": "2026-11-17",
+      "note": "Aspect contrast verified; manuscript examples and teaching scenarios are original."
+    },
+    {
+      "label": "British Council third and mixed conditionals",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-third-mixed",
+      "verified": "2026-11-17",
+      "note": "Separate temporal reference of conditional and result clauses verified."
+    },
+    {
+      "label": "Cambridge Grammar verb patterns",
+      "url": "https://dictionary.cambridge.org/uk/grammar/british-grammar/verb-patterns-verb-infinitive-or-verb-ing",
+      "verified": "2026-11-17",
+      "note": "Selected meaning-changing patterns verified; original examples used."
+    },
+    {
+      "label": "Cambridge Grammar despite",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/in-spite-of-and-despite",
+      "verified": "2026-11-17",
+      "note": "Noun and Ving complement pattern verified."
+    },
+    {
+      "label": "Cambridge Grammar relative clauses",
+      "url": "https://dictionary.cambridge.org/uk/grammar/british-grammar/relative-clauses-defining-and-non-defining",
+      "verified": "2026-11-17",
+      "note": "Defining versus supplementary relative distinction verified."
+    },
+    {
+      "label": "Cambridge Grammar need",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/need",
+      "verified": "2026-11-17",
+      "note": "Needn't have expresses actual unnecessary action; didn't need to alone does not entail non-occurrence."
+    },
+    {
+      "label": "British Council inversion",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/inversion-after-negative-adverbials",
+      "verified": "2026-11-17",
+      "note": "Negative fronting and auxiliary inversion verified."
+    },
+    {
+      "label": "Cambridge Grammar must",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/must",
+      "verified": "2026-11-17",
+      "note": "Deduction versus obligation and past deduction verified."
+    }
+  ],
+  "word_count": 20034,
+  "counts": {
+    "numbered_exercises": 80,
+    "subtasks_in_day5": 15,
+    "diagrams": 21,
+    "preposition_patterns": 30,
+    "multiword_verbs": 24,
+    "extra_selfcheck_blocks": 2
+  },
+  "days": [
+    {
+      "day": 1,
+      "words": 5196,
+      "numbered_exercises": 20,
+      "exercise_ids": [
+        "G1.01",
+        "G1.02",
+        "G1.03",
+        "G1.04",
+        "G1.05",
+        "G1.06",
+        "G1.07",
+        "G1.08",
+        "G1.09",
+        "G1.10",
+        "G1.11",
+        "G1.12",
+        "G1.13",
+        "G1.14",
+        "G1.15",
+        "G1.16",
+        "G1.17",
+        "G1.18",
+        "G1.19",
+        "G1.20"
+      ]
+    },
+    {
+      "day": 2,
+      "words": 4948,
+      "numbered_exercises": 20,
+      "exercise_ids": [
+        "G2.01",
+        "G2.02",
+        "G2.03",
+        "G2.04",
+        "G2.05",
+        "G2.06",
+        "G2.07",
+        "G2.08",
+        "G2.09",
+        "G2.10",
+        "G2.11",
+        "G2.12",
+        "G2.13",
+        "G2.14",
+        "G2.15",
+        "G2.16",
+        "G2.17",
+        "G2.18",
+        "G2.19",
+        "G2.20"
+      ]
+    },
+    {
+      "day": 3,
+      "words": 4194,
+      "numbered_exercises": 20,
+      "exercise_ids": [
+        "G3.01",
+        "G3.02",
+        "G3.03",
+        "G3.04",
+        "G3.05",
+        "G3.06",
+        "G3.07",
+        "G3.08",
+        "G3.09",
+        "G3.10",
+        "G3.11",
+        "G3.12",
+        "G3.13",
+        "G3.14",
+        "G3.15",
+        "G3.16",
+        "G3.17",
+        "G3.18",
+        "G3.19",
+        "G3.20"
+      ]
+    },
+    {
+      "day": 4,
+      "words": 3946,
+      "numbered_exercises": 15,
+      "exercise_ids": [
+        "G4.01",
+        "G4.02",
+        "G4.03",
+        "G4.04",
+        "G4.05",
+        "G4.06",
+        "G4.07",
+        "G4.08",
+        "G4.09",
+        "G4.10",
+        "G4.11",
+        "G4.12",
+        "G4.13",
+        "G4.14",
+        "G4.15"
+      ]
+    },
+    {
+      "day": 5,
+      "words": 1750,
+      "numbered_exercises": 5,
+      "exercise_ids": [
+        "G5.01",
+        "G5.02",
+        "G5.03",
+        "G5.04",
+        "G5.05"
+      ]
+    }
+  ],
+  "scope_note": "Broad YDS grammar coverage; not a claim that a finite textbook exhausts every English lexical item or all attested grammatical constructions.",
+  "self_audit": {
+    "checked": [
+      "subject agreement and transitivity",
+      "modal epistemic/deontic distinctions",
+      "conditional temporal reference",
+      "conjunction complement patterns",
+      "relative/noun clause role distinctions",
+      "participial attachment",
+      "gerund/infinitive exceptions",
+      "inversion scope",
+      "negative quantifier scope",
+      "answer explanations"
+    ],
+    "unresolved": []
+  },
+  "assessment_revisions": [
+    {
+      "id": "S43",
+      "old_option": "official registers were deliberately falsified",
+      "replacement": "women's influence grew after shops began appearing in their names",
+      "explanation": "Metin zaman içindeki nüfuz artışını veya kadın adına tescilin artmasını anlatmaz; farklı kayıtların farklı faaliyetleri görünür kılmasını tartışır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S43",
+      "old_option": "women controlled most trade in the city",
+      "replacement": "private correspondence provides a more representative account of trade than licensing records",
+      "explanation": "Mektuplar birkaç haneden gelir ve temsil sınırlaması açıkça belirtilir; daha temsil edici oldukları söylenmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S43",
+      "old_option": "exhibitions should avoid discussing uncertainty",
+      "replacement": "combining two kinds of record produces a complete account of each household's work",
+      "explanation": "İki kaynak karşılaştırılır, fakat bütün hanelerin eksiksiz kaydına ulaşıldığı iddia edilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S43",
+      "old_option": "private letters should replace official records in all historical research",
+      "replacement": "historians can estimate women's total share of trade by counting the surviving letters",
+      "explanation": "Mektuplardan toplam ticaret payı hesaplanamaz; örneklem sınırlaması bu genellemeyi özellikle sınırlar.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S44",
+      "old_option": "It contains no useful information about the city.",
+      "replacement": "legal ownership usually changed whenever a woman became involved in a shop's daily work",
+      "explanation": "Kadınların çalıştığı bazı dükkânlar erkek adına kayıtlıydı; çalışmaya katılma mülkiyet değişimi gerektirmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S44",
+      "old_option": "It counted every delivery made by every household.",
+      "replacement": "it was compiled chiefly to document the informal division of labour within households",
+      "explanation": "Sicil gündelik iş bölümünden çok yasal mülkiyeti doğrudan kaydeder; seçenek kaynak işlevini değiştirir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S44",
+      "old_option": "It was written by the same families who preserved the letters.",
+      "replacement": "its information about legal ownership became inaccurate once unregistered work was discovered",
+      "explanation": "Katılım açısından eksik olmak, yasal mülkiyet kayıtlarının yanlış olduğu anlamına gelmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S44",
+      "old_option": "It proves that no woman legally owned a shop.",
+      "replacement": "the households represented in the letters account for most businesses in the register",
+      "explanation": "Mektupların sınırlı hanelerden geldiği söylenir; sicildeki işletmelerin çoğunu temsil ettikleri bilgisi yoktur.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S45",
+      "old_option": "Visitors refused to read personal correspondence.",
+      "replacement": "the letters described negotiations but did not indicate any involvement in trade",
+      "explanation": "Teslimat, kredi ve fiyat görüşmeleri ticari katılım örnekleri olarak sunulur; seçenek bunların işlevini reddeder.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S45",
+      "old_option": "The official register had already been proved complete.",
+      "replacement": "the museum had not yet decided whether visitors would understand the letters",
+      "explanation": "Ziyaretçilerin anlama düzeyi, tarihçilerin kapsam sınırlamasının gerekçesi olarak verilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S45",
+      "old_option": "They were required to accept every registered owner as the only worker.",
+      "replacement": "the historians treated legal ownership as sufficient to identify everyone who worked in a shop",
+      "explanation": "Tarihçiler tam tersine yasal sahiplik ile günlük katılımın örtüşmeyebileceğini gösterir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S45",
+      "old_option": "The letters contained no descriptions of commercial activity.",
+      "replacement": "the letters documented ownership changes more clearly than participation in everyday work",
+      "explanation": "Mektuplar özellikle günlük faaliyetleri görünür kılar; mülkiyet değişiminin daha açık kaydı oldukları söylenmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S46",
+      "old_option": "demonstrate that no historical conclusion is ever possible",
+      "replacement": "resolve discrepancies by giving personal testimony priority over administrative sources",
+      "explanation": "Metin kişisel mektupları otomatik olarak daha doğru sayma amacını açıkça reddeder.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S46",
+      "old_option": "show that legal ownership and everyday work always coincided",
+      "replacement": "show that registered owners usually performed the work described in the letters",
+      "explanation": "Yan yana gösterim sahiplik ile günlük işin aynı kişilerde birleştiğini kanıtlamak için yapılmadı.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S46",
+      "old_option": "replace historical interpretation with a complete list of households",
+      "replacement": "calculate the proportion of local trade conducted by families that preserved letters",
+      "explanation": "Sergi karşılaştırma ve kaynak sınırlarına odaklanır; toplam ticaret oranını hesaplamaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S46",
+      "old_option": "prove that every letter was more accurate than every official entry",
+      "replacement": "demonstrate that gaps in official records cannot be reduced by consulting personal accounts",
+      "explanation": "Mektuplar sicilin görünmez bıraktığı katılımı ortaya çıkarır; seçenek bu tamamlayıcı işlevi tersine çevirir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S47",
+      "old_option": "the routes had no shade after construction",
+      "replacement": "the diaries measured route choice, while street counts directly measured total walking time",
+      "explanation": "Sokak sayımı yerel geçişleri sayar; toplam yürüme süresini doğrudan ölçmez. Araçların işlevi değiştirilmiştir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S47",
+      "old_option": "the diaries proved that no one had changed their walking behaviour",
+      "replacement": "the two neighbourhoods received their new routes in different seasons",
+      "explanation": "Farklı mevsimlerde uygulama bilgisi verilmez; sorun aynı faaliyetin yer değiştirmesinin toplam artış sanılmasıdır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S47",
+      "old_option": "every resident refused to walk on the new routes",
+      "replacement": "construction shortened walking distances, causing pedestrian counts to understate time spent walking",
+      "explanation": "Güzergâhların mesafeyi kısalttığı veya sayımların süreyi eksik tahmin ettiği belirtilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S47",
+      "old_option": "the city measured only residents’ opinions about construction costs",
+      "replacement": "the street counts included only residents who had volunteered to keep diaries",
+      "explanation": "Yerel sayımlar ile gönüllü günlük grubu ayrı veri kaynaklarıdır; sayımlar gönüllülerle sınırlı değildir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S48",
+      "old_option": "The diaries provided a complete record of all walking.",
+      "replacement": "Residents who completed diaries increased their walking by approximately the same amount.",
+      "explanation": "Günlükler bazı kişilerde artış, bazılarında çok az değişim gösterir; tekdüze bir artış desteklenmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S48",
+      "old_option": "All unshaded streets became unsuitable for pedestrians.",
+      "replacement": "The new routes were more comfortable mainly because they were shorter.",
+      "explanation": "Metinde rahatlık gölgeli güzergâhlarla ilişkilendirilir; daha kısa mesafe bilgisi yoktur.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S48",
+      "old_option": "Shaded routes caused people to stop using every other street.",
+      "replacement": "The project increased total walking in both neighbourhoods by a similar amount.",
+      "explanation": "Toplam yürüyüş üzerindeki etki, güzergâh çekiciliği kadar güçlü desteklenmemiştir; eşit artış miktarı da verilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S48",
+      "old_option": "Every resident increased total walking time.",
+      "replacement": "The greatest increase occurred among residents who had previously avoided walking.",
+      "explanation": "Sıcak öğleden sonralarından söz edilir; geçmişte yürümekten kaçınan bir alt grup karşılaştırması yoktur.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S49",
+      "old_option": "They measured construction dates rather than walking behaviour.",
+      "replacement": "They contradicted the route counts by showing that total walking had declined.",
+      "explanation": "Günlükler herkes için düşüş göstermez; bazı artışlar ve bazı çok küçük değişimler bildirir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S49",
+      "old_option": "They showed that every resident walked less.",
+      "replacement": "Residents were asked to record only walks taken on the new shaded routes.",
+      "explanation": "Böyle bir kayıt kısıtlaması belirtilmemiştir; eleştiriler gönüllü katılım ve hatalı kaydetme ihtimalidir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S49",
+      "old_option": "No diary was returned to the team.",
+      "replacement": "They recorded preferences for routes but did not ask about walking behaviour.",
+      "explanation": "Günlükler yürüyüşteki değişimi incelemek için kullanılır; yalnız tercih ölçümü oldukları söylenmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S49",
+      "old_option": "The team had forbidden residents to record afternoon walks.",
+      "replacement": "They covered a period before the new routes had become available.",
+      "explanation": "Günlükler yeni güzergâhların ardından toplam yürüyüşü araştırmaya hizmet eder; önceki dönemle sınırlı oldukları belirtilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S50",
+      "old_option": "has been shown to reduce comfort",
+      "replacement": "offers no improvement in walking comfort",
+      "explanation": "Metin toplam süre aynı kalsa bile daha rahat bir yürüyüş alanı sağlamayı yarar olarak sunar; seçenek bu yararı kaldırır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S50",
+      "old_option": "is never used by any resident",
+      "replacement": "attracts only residents who volunteered to record their behaviour",
+      "explanation": "Güzergâhların yalnız günlük gönüllülerince kullanıldığına ilişkin bilgi yoktur.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S50",
+      "old_option": "makes every diary perfectly accurate",
+      "replacement": "makes the neighbouring unshaded streets unnecessary",
+      "explanation": "Bazı kişilerin güzergâh değiştirmesi diğer sokakların gereksiz olduğu sonucunu vermez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S50",
+      "old_option": "eliminates the need to collect any data",
+      "replacement": "shows that diaries are inherently more accurate than pedestrian counts",
+      "explanation": "İki aracın farklı sınırlamaları vardır; günlüklerin doğası gereği daha doğru olduğu savunulmaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S51",
+      "old_option": "independent reviewers and automated reviewers",
+      "replacement": "immediate performance on familiar tasks and delayed performance on the same tasks",
+      "explanation": "Gecikmeli görevler daha önce görülmemiştir; aynı görevlerin tekrarı değildir. Ana ayrım da destekli çıktı ile bağımsız beceridir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S51",
+      "old_option": "recognising all errors and making no errors in any setting",
+      "replacement": "reviewers' ratings of quality and editors' ratings of satisfaction",
+      "explanation": "Bağımsız kalite puanları vardır; editör memnuniyeti puanları ölçülmüş olarak verilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S51",
+      "old_option": "short texts and books that require years to write",
+      "replacement": "the ability to recognise an error and the ability to avoid making it in the first place",
+      "explanation": "Metin sonunda tanıma ile bağımsız açıklama/onarım ayrımı vardır; ilk başta hatadan kaçınma ana karşılaştırma değildir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S51",
+      "old_option": "experienced editors and people who had never edited anything",
+      "replacement": "experienced editors' learning and beginners' learning from the same assistant",
+      "explanation": "Katılımcılar deneyimli editörlerdir; yeni başlayan bir karşılaştırma grubu bulunmaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S52",
+      "old_option": "Every editor performed exactly as before on every item.",
+      "replacement": "The gain observed during assisted work remained equally large one week later.",
+      "explanation": "Gecikmeli bağımsız ortalama önceki bağımsız düzeye benzerdi; destekli artışın korunduğu söylenmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S52",
+      "old_option": "The assisted texts had received lower ratings.",
+      "replacement": "The lack of a clear average gain meant that no individual editor improved.",
+      "explanation": "Grup ortalaması bireysel değişimlerin aynı olduğunu göstermez; bireysel gelişim dağılımı verilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S52",
+      "old_option": "The assistant prevented all possible learning.",
+      "replacement": "Brief use of the assistant reduced the editors' independent revision skills.",
+      "explanation": "Önceki bağımsız performansa benzerlik azalma kanıtı değildir; ayrıca genel nedensel sonuç kurulamaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S52",
+      "old_option": "The editors had never used the assistant correctly.",
+      "replacement": "The tool's benefits were confined to tasks that editors had already seen before the evaluation.",
+      "explanation": "İlk görevlerin değerlendirme öncesinden tanındığı bilgisi yoktur; bu sınır metne eklenmiştir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S53",
+      "old_option": "No independent tasks were administered.",
+      "replacement": "The delayed assessment repeated exactly the tasks used during the assisted session.",
+      "explanation": "Pasaj gecikmeli görevlerin unfamiliar olduğunu açıkça belirtir; aynı görevler tekrarlanmamıştır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S53",
+      "old_option": "All participants abandoned the evaluation before completion.",
+      "replacement": "The sample included only editors who had already improved without assistance.",
+      "explanation": "Katılımcı seçimi böyle bir gelişim koşuluna bağlanmaz; bu sınırlama metinde yoktur.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S53",
+      "old_option": "The assistant was unavailable during the assisted tasks.",
+      "replacement": "The reviewers could identify which texts had been produced with the assistant.",
+      "explanation": "Değerlendiricilerin koşulu bilip bilmediği belirtilmez. Independent sözcüğünden ne körlük ne de körlük yokluğu çıkarılabilir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S53",
+      "old_option": "The reviewers knew every editor personally.",
+      "replacement": "The editors had to alternate between two different automated assistants.",
+      "explanation": "İki ayrı asistan değil, destekli ve desteksiz görevler karşılaştırılır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S54",
+      "old_option": "replace all performance measures with users’ satisfaction ratings",
+      "replacement": "identify one assessment time at which the assistant's learning benefit is greatest",
+      "explanation": "Amaç tek en elverişli zamanı seçmek değil, destekli çıktı ile hemen ve gecikmeli bağımsız performansı ayırmaktır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S54",
+      "old_option": "assume that error recognition automatically includes error repair",
+      "replacement": "combine assisted and unaided scores into a single measure of competence",
+      "explanation": "Metin ayrı sorular önermektedir; bunları tek puanda birleştirmek gerekçeyi tersine çevirir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S54",
+      "old_option": "show that assistance should never be used for revision",
+      "replacement": "determine whether text quality can be evaluated without independent reviewers",
+      "explanation": "Bağımsız değerlendiricilerin gerekliliği bu üç sorunun konusu değildir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S54",
+      "old_option": "ensure that every future study finds a learning benefit",
+      "replacement": "use error recognition as a substitute for testing independent error repair",
+      "explanation": "Son cümle tanımanın bağımsız onarımı öğretmeyebileceğini belirtir; ikame edilmesini desteklemez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S55",
+      "old_option": "assume that short-term tests reveal every future effect",
+      "replacement": "apply the same treatment to similar documents regardless of how they are used",
+      "explanation": "Son öneri belgenin durumu ve amacı temelinde seçici kullanımdır; benzer malzeme otomatik aynı karar gerektirmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S55",
+      "old_option": "treat teaching copies and unique manuscripts identically",
+      "replacement": "postpone intervention until long-term effects can be predicted with certainty",
+      "explanation": "Metin belirsizlik varken bütün müdahaleyi erteleyen bir kural koymaz; seçici kullanımı önerir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S55",
+      "old_option": "be based entirely on resistance to handling",
+      "replacement": "treat reversibility as sufficient justification for applying a method widely",
+      "explanation": "Geri döndürülebilirlik bütün riskleri kaldırmaz ve tek başına yaygın uygulama yeterliliği sağlamaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S55",
+      "old_option": "always avoid any intervention",
+      "replacement": "give resistance to handling priority whenever it conflicts with other properties",
+      "explanation": "Dayanıklılık tek gereklilik değildir; görünüm, izler ve gelecekteki analiz de kararın parçasıdır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S56",
+      "old_option": "It allowed the team to ignore the document’s purpose.",
+      "replacement": "It shows whether strengthening and natural deterioration occur at the same rate.",
+      "explanation": "Doğal bozulma hızını güçlenmeyle karşılaştıran bir ölçüm verilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S56",
+      "old_option": "It proved that untreated paper could not deteriorate.",
+      "replacement": "It allows documents with different purposes to receive the same treatment.",
+      "explanation": "Belgenin kullanım amacı risk dengesini değiştirmeye devam eder; geri döndürülebilirlik bu ayrımı ortadan kaldırmaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S56",
+      "old_option": "It guaranteed that the treatment would have no side effects.",
+      "replacement": "It guarantees that any change in appearance can be completely undone.",
+      "explanation": "Metin geri döndürülebilirliğin bütün riskleri kaldırmadığını söyler; her görsel etkinin eksiksiz giderileceği garanti edilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S56",
+      "old_option": "It made all further documentation unnecessary.",
+      "replacement": "It removes the need to examine small samples before treating valuable documents.",
+      "explanation": "Küçük örneklerde test ve değişimleri belgeleme sürdürülür; geri döndürülebilirlik bunların yerine konmaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S57",
+      "old_option": "The method was applied to the entire collection before testing.",
+      "replacement": "Unique manuscripts were judged unsuitable for later scientific analysis.",
+      "explanation": "Metin benzersiz el yazmasını özellikle gelecekteki araştırma amacıyla saklanabilecek bir belge olarak örnekler.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S57",
+      "old_option": "Every treated sheet changed colour immediately.",
+      "replacement": "The samples were selected because they already resisted repeated handling.",
+      "explanation": "İşlemden sonra dayanıklılık karşılaştırılır; örneklem seçim ölçütü bu şekilde verilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S57",
+      "old_option": "Repeated handling was the only test the team considered relevant.",
+      "replacement": "The team postponed every treatment until all storage tests had ended.",
+      "explanation": "Bütün uygulamaların bütün testler bitene kadar durdurulduğu bilgisi yoktur; son öneri seçici kullanımdır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S57",
+      "old_option": "Unique manuscripts are never examined by researchers.",
+      "replacement": "Most treated samples changed colour immediately after the procedure.",
+      "explanation": "Görünüm değişikliği olası risk olarak anlatılır; çoğu örnekte hemen gerçekleşmiş bulgu olarak verilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S58",
+      "old_option": "why teaching copies are always more valuable than unique manuscripts",
+      "replacement": "why frequently handled copies provide better evidence about long-term chemical changes",
+      "explanation": "Karşılaştırma hangi belgenin daha iyi kimyasal kanıt sağladığı değil, kullanım amacına göre risk kabulünün değişmesidir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S58",
+      "old_option": "that unique manuscripts should be handled more often",
+      "replacement": "why recently produced paper responds more effectively to strengthening",
+      "explanation": "Yeni ve eski kâğıdın tedaviye yanıtı karşılaştırılmaz; öğretim kopyasının yaşı da belirtilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S58",
+      "old_option": "that the treatment works only on recently printed paper",
+      "replacement": "how scarcity makes mechanical strength the primary goal in every decision",
+      "explanation": "Benzersizlik, gelecekteki inceleme imkânlarını korumayı öne çıkarabilir; mekanik dayanıklığın otomatik üstünlüğü savunulmaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S58",
+      "old_option": "why documenting a treatment is impossible",
+      "replacement": "how a document's historical value can be inferred from how often it is handled",
+      "explanation": "Kullanım sıklığı tarihsel değerin doğrudan ölçütü yapılmaz; farklı amaçların risk dengesi anlatılır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S59",
+      "old_option": "whether the image appears more expensive to produce",
+      "replacement": "the amount of information viewers say they notice immediately",
+      "explanation": "Bir unsuru fark etmek onu hedef soruyu yanıtlamak için kullanmakla aynı değildir; amaç uygun anlamadır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S59",
+      "old_option": "whether every decorative element is removed from all diagrams",
+      "replacement": "the extent to which simplifying it improves its aesthetic rating",
+      "explanation": "Estetik etki ve görev başarısı ayrılmıştır; daha sade çizimin daha güzel bulunması ana ölçüt değildir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S59",
+      "old_option": "the assumption that more labels always improve learning",
+      "replacement": "the time and resources required to produce the final image",
+      "explanation": "Üretim maliyeti veya süresi değerlendirme ölçütü olarak incelenmemiştir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S59",
+      "old_option": "the number of colours participants say they prefer",
+      "replacement": "the visual richness needed to maintain learners' interest for longer",
+      "explanation": "İlgi süresi ölçülmez; daha etkileyici görünmenin nedensel soruda başarı getirmediği gösterilir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S60",
+      "old_option": "It improved every participant’s causal explanation.",
+      "replacement": "It improved causal identification despite receiving lower ratings for appearance.",
+      "explanation": "İki bulgunun yönü ters çevrilmiştir: daha etkileyici bulundu, nedensel tanımayı iyileştirmedi.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S60",
+      "old_option": "It contained fewer labels than the simpler diagram.",
+      "replacement": "Its advantage was greater for causal questions than for remembering decorative details.",
+      "explanation": "Nedensel soruda üstünlük yoktu; bazı durumlarda dekoratif ayrıntılar daha iyi hatırlandı.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S60",
+      "old_option": "It was never compared with another diagram.",
+      "replacement": "Its extra labels helped participants explain relationships that were not part of the task.",
+      "explanation": "Görev dışı ilişkilerin açıklanması ölçülmüş bir sonuç olarak verilmez; olası başka görev yararı yalnız ihtimaldir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S60",
+      "old_option": "It prevented participants from remembering any detail.",
+      "replacement": "Its users recalled fewer decorative elements than those who saw the simpler version.",
+      "explanation": "Basit görsel grubuyla dekoratif hatırlama açısından böyle bir karşılaştırma bildirilmez.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S61",
+      "old_option": "The detailed diagram was the only version examined.",
+      "replacement": "The richer version achieved the highest score on the causal question.",
+      "explanation": "Zengin sürüm nedensel soruda iyileşme sağlamadı; vurgulu üçüncü sürüm daha iyi sonuç verdi.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S61",
+      "old_option": "They did not collect any data about the diagrams.",
+      "replacement": "The aesthetic ratings were too inconsistent to compare the versions.",
+      "explanation": "Zengin görselin daha etkileyici bulunduğu belirtilir; puanların tutarsızlığı bir gerekçe değildir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S61",
+      "old_option": "The causal connection was irrelevant to every possible task.",
+      "replacement": "Learning component names is more important than understanding causal relations.",
+      "explanation": "Farklı görevlerde farklı detayın yararlı olabileceği söylenir; öğrenme hedefleri arasında genel üstünlük sırası kurulmaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S61",
+      "old_option": "All participants preferred the simpler diagram aesthetically.",
+      "replacement": "Detailed visuals are useful whenever a simpler alternative has not been tested.",
+      "explanation": "Basit alternatif test edilmemesi yarar kanıtı değildir; savunulan ölçüt görselin öğrenme hedefine uygunluğudur.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S62",
+      "old_option": "attention always damages understanding",
+      "replacement": "highlighting a causal connection makes an image less memorable but more attractive",
+      "explanation": "Üçüncü sürüm için bu hafıza veya estetik sonuçları verilmez; ölçülen üstünlük nedensel sorudadır.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S62",
+      "old_option": "an image cannot be both memorable and educational",
+      "replacement": "memorability is determined mainly by how accurately viewers answer causal questions",
+      "explanation": "Metin hatırlanabilirlik ile doğru nedensel anlamanın ayrılabileceğini söyler; tek yönlü belirlenim kurmaz.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S62",
+      "old_option": "a successful visual must contain no information",
+      "replacement": "attention to decoration prevents later learning about causes",
+      "explanation": "Süslemeye yönelmenin her durumda sonraki öğrenmeyi engellediği söylenmez; uygun olmayan odağa dikkat çekebilir.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S62",
+      "old_option": "the third diagram failed because it highlighted the causal connection",
+      "replacement": "task performance depends chiefly on whether an image is simple rather than complex",
+      "explanation": "Basitlik tek ölçüt değildir; ek detay başka görevlerde yararlı olabilir. Önemli olan göreve uygunluktur.",
+      "kind": "distractor_quality"
+    },
+    {
+      "id": "S52",
+      "old_option": "There was no observed average improvement over earlier unaided performance on that task.",
+      "replacement": "Average unaided performance on the delayed tasks was similar to the earlier unaided level.",
+      "explanation": "Pasaj gecikmeli ortalamanın önceki bağımsız performansa benzer olduğunu söyler; tam eşitlik, sıfır bireysel gelişim veya istatistiksel olarak anlamsızlık eklenmez.",
+      "kind": "key_precision"
+    }
+  ],
+  "assessment_audit_note": "All original 80 simulation + 100 diagnostic/daily questions reviewed for answer alignment. Separate 8 ambiguity/precision fixes communicated to assessment author; this array upgrades all 80 reading distractors S43–62 and refines S52 key. Apply by old option text, not index; preserve keyed identity.",
+  "final_crossbook_audit": {
+    "reading_lab_repairs": [
+      "Day2 observational comparison described as association investigation",
+      "Day3 obligation and helping force preserved in TR",
+      "Day3 access explanation marked tentative pending evaluation",
+      "Day5 full four-paragraph Turkish translation restored",
+      "Day5 what-clause grammatical roles specified"
+    ],
+    "frontmatter_repairs": [
+      "confidence classifications calibrated",
+      "four loci explicitly limited to vocabulary cards"
+    ],
+    "grammar_bridges": [
+      "there be and anticipatory it",
+      "questions and negatives with auxiliaries",
+      "likely unlikely",
+      "supposed to and ought to",
+      "as if as though"
+    ],
+    "bridge_words": 547,
+    "references": "No material inconsistencies detected; bibliographic facts independently verified by parent."
+  }
+}

@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "P01",
+    "word": "carry out",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "gerçekleştirmek.",
+    "example": "The team carried out a second inspection.",
+    "source_text": "gerçekleştirmek. *The team carried out a second inspection.* Ekip ikinci incelemeyi gerçekleştirdi. Hafıza: araştırma odasında plan kâğıdından uygulama masasına geç. *Carry the test out* mümkün; zamirle *carry it out*. Hatırla: “Onu gerçekleştirdiler” cümlesini bu kalıpla kur."
+  },
+  {
+    "id": "P02",
+    "word": "look into",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "araştırmak.",
+    "example": "The committee looked into the missing records.",
+    "source_text": "araştırmak. *The committee looked into the missing records.* Komite eksik kayıtları araştırdı. Hafıza: dosyanın içine tutulan büyüteç. Ayrılmaz: *look into it*. Hatırla: “Sorunu araştır” ifadesini *look* ile kur."
+  },
+  {
+    "id": "P03",
+    "word": "find out",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "araştırarak veya deneyimle öğrenmek.",
+    "example": "We found out why the dates differed.",
+    "source_text": "araştırarak veya deneyimle öğrenmek. *We found out why the dates differed.* Tarihlerin neden farklı olduğunu öğrendik. Hafıza: kapanmış sorudan çıkan cevap kartı. *Find* bulma, *find out* bilginin öğrenilmesi vurgusudur. Hatırla: “Nedenini öğrendik” cümlesini kur."
+  },
+  {
+    "id": "P04",
+    "word": "figure out",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "çözmek; anlayıp bulmak.",
+    "example": "She figured out how the mechanism worked.",
+    "source_text": "çözmek; anlayıp bulmak. *She figured out how the mechanism worked.* Mekanizmanın nasıl çalıştığını çözdü. Hafıza: yapbozun son parçası. *Figure it out* kullanılır. Hatırla: *figure out it* biçimini düzelt."
+  },
+  {
+    "id": "P05",
+    "word": "point out",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "bir bilgiyi özellikle belirtmek.",
+    "example": "The reviewer pointed out a gap in the argument.",
+    "source_text": "bir bilgiyi özellikle belirtmek. *The reviewer pointed out a gap in the argument.* İnceleyici savdaki boşluğu belirtti. Hafıza: haritada işaretlenen çatlak. *Point out that* cümle alabilir. Hatırla: “Bir sınırlamayı belirtti” ifadesini kur."
+  },
+  {
+    "id": "P06",
+    "word": "set out",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "ortaya koymak; açıklamak; yola çıkmak.",
+    "example": "The introduction sets out the study's main question.",
+    "source_text": "ortaya koymak; açıklamak; yola çıkmak. *The introduction sets out the study's main question.* Giriş temel soruyu ortaya koyar. Hafıza: masa üstüne sırayla dizilen sorular. *Set out to test* sınamayı amaçlayarak yola çıkmaktır. Hatırla: *set out to investigate* sonucunda araştırmanın bittiği kesin mi?"
+  },
+  {
+    "id": "P07",
+    "word": "draw on",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "bir kaynak veya deneyimden yararlanmak.",
+    "example": "The account draws on letters from several families.",
+    "source_text": "bir kaynak veya deneyimden yararlanmak. *The account draws on letters from several families.* Anlatım birkaç ailenin mektuplarından yararlanır. Hafıza: arşiv kuyusundan çekilen bilgi kovası. *Draw it on* bu anlamın örüntüsü değildir. Hatırla: *draw ___ experience* edatını yaz."
+  },
+  {
+    "id": "P08",
+    "word": "account for",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "açıklamak veya payını oluşturmak.",
+    "example": "The repairs accounted for half the budget.",
+    "source_text": "açıklamak veya payını oluşturmak. *The repairs accounted for half the budget.* Onarımlar bütçenin yarısını oluşturdu. Hafıza: masadaki bütçe pastasının dilimi; başka rafta kırığı açıklayan izler. Hatırla: bu örnekte açıklama mı pay mı anlatılır?"
+  },
+  {
+    "id": "P09",
+    "word": "refer to",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "gönderme yapmak; söz etmek; başvurmak.",
+    "example": "The pronoun refers to the earlier proposal.",
+    "source_text": "gönderme yapmak; söz etmek; başvurmak. *The pronoun refers to the earlier proposal.* Zamir önceki öneriye gönderme yapar. Hafıza: zamirden asıl nesneye dönen ok. *Refer to it* kullanılır. Hatırla: “Önceki sonuca gönderme yapıyor” cümlesini kur."
+  },
+  {
+    "id": "P10",
+    "word": "stand for",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "temsil etmek; bir kısaltmanın açılımı olmak.",
+    "example": "In this table, R stands for retention.",
+    "source_text": "temsil etmek; bir kısaltmanın açılımı olmak. *In this table, R stands for retention.* Bu tabloda R hatırlamayı temsil eder. Hafıza: tek harfin arkasında duran kavram kartı. Hatırla: *stand for* burada ayağa kalkmak mıdır?"
+  },
+  {
+    "id": "P11",
+    "word": "build on",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "önceki bilgi veya çalışmayı temel alarak ilerlemek.",
+    "example": "The explanation builds on the earlier distinction.",
+    "source_text": "önceki bilgi veya çalışmayı temel alarak ilerlemek. *The explanation builds on the earlier distinction.* Açıklama önceki ayrıma dayanarak gelişir. Hafıza: eski temel üstüne yeni kat. Hatırla: *build on previous work* önceki çalışmayı reddetmek midir?"
+  },
+  {
+    "id": "P12",
+    "word": "follow up on",
+    "day": 1,
+    "kind": "phrasal",
+    "meaning": "önceki olayı veya işi takip etmek.",
+    "example": "The team followed up on the initial findings with further interviews.",
+    "source_text": "önceki olayı veya işi takip etmek. *The team followed up on the initial findings with further interviews.* Ekip ilk bulguları ek görüşmelerle izledi. Hafıza: ilk dosyaya uzanan ikinci dosya. Hatırla: *follow up on it* mı, *follow it up on* mı?"
+  },
+  {
+    "id": "C01",
+    "word": "conduct research",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "araştırma yürütmek.",
+    "example": "The group conducted research on local dialects.",
+    "source_text": "araştırma yürütmek. *The group conducted research on local dialects.* Grup yerel ağızlar üzerine araştırma yürüttü. İpucu: çalışan deney masası. Hatırla: *___ research* boşluğuna yerleşik fiili getir."
+  },
+  {
+    "id": "C02",
+    "word": "collect data",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "veri toplamak.",
+    "example": "Researchers collected data from three archives.",
+    "source_text": "veri toplamak. *Researchers collected data from three archives.* Araştırmacılar üç arşivden veri topladı. İpucu: klasörlere giren kayıt kartları. Hatırla: veri üretmek ile mevcut veriyi toplamak aynı işlem midir?"
+  },
+  {
+    "id": "C03",
+    "word": "provide evidence",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "kanıt sağlamak.",
+    "example": "The letters provide evidence of earlier contact.",
+    "source_text": "kanıt sağlamak. *The letters provide evidence of earlier contact.* Mektuplar daha önceki temasa kanıt sağlar. İpucu: delil masasına bırakılan mektup. Hatırla: *provide* fiilinin nesnesi nedir?"
+  },
+  {
+    "id": "C04",
+    "word": "draw a conclusion",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "sonuca varmak.",
+    "example": "No firm conclusion can be drawn yet.",
+    "source_text": "sonuca varmak. *No firm conclusion can be drawn yet.* Henüz kesin sonuca varılamaz. İpucu: ipuçlarından sonuç kartına çizilen ok. Hatırla: *do a conclusion* yerine hangi kalıp?"
+  },
+  {
+    "id": "C05",
+    "word": "test a hypothesis",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "hipotezi sınamak.",
+    "example": "The second experiment tested the competing hypothesis.",
+    "source_text": "hipotezi sınamak. *The second experiment tested the competing hypothesis.* İkinci deney rakip hipotezi sınadı. İpucu: soru kâğıdının deney masasına gelişi. Hatırla: sınandı sözcüğü doğrulandı demek mi?"
+  },
+  {
+    "id": "C06",
+    "word": "assess the impact",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "etkiyi değerlendirmek.",
+    "example": "The review assessed the impact of the changes.",
+    "source_text": "etkiyi değerlendirmek. *The review assessed the impact of the changes.* İnceleme değişikliklerin etkisini değerlendirdi. İpucu: köprüde önce-sonra değerlendirme kartları. Hatırla: *impact* burada neden mi etki mi?"
+  },
+  {
+    "id": "C07",
+    "word": "obtain consent",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "onam veya izin almak.",
+    "example": "Written consent was obtained before the interviews.",
+    "source_text": "onam veya izin almak. *Written consent was obtained before the interviews.* Görüşmelerden önce yazılı onam alındı. İpucu: anahtardan önce imzalı kâğıt. Hatırla: edilgen cümlenin yüklemini yaz."
+  },
+  {
+    "id": "C08",
+    "word": "conduct an experiment",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "deney yürütmek.",
+    "example": "The class conducted an experiment using coloured water.",
+    "source_text": "deney yürütmek. *The class conducted an experiment using coloured water.* Sınıf renkli suyla deney yaptı. İpucu: uygulama masası. Hatırla: *make an experiment* yerine buradaki doğal kalıp ne?"
+  },
+  {
+    "id": "C09",
+    "word": "representative sample",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "temsil edici örneklem.",
+    "example": "The survey did not use a representative sample.",
+    "source_text": "temsil edici örneklem. *The survey did not use a representative sample.* Anket temsil edici örneklem kullanmadı. İpucu: karıştırılmış kazandan alınan kaşık. Hatırla: büyük örneklem otomatik temsil edici mi?"
+  },
+  {
+    "id": "C10",
+    "word": "reliable source",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "güvenilir kaynak.",
+    "example": "The claim should be checked against a reliable source.",
+    "source_text": "güvenilir kaynak. *The claim should be checked against a reliable source.* İddia güvenilir kaynakla kontrol edilmelidir. İpucu: kaynak belgesiyle eşleşen mühür. Hatırla: *reliable* isim mi sıfat mı?"
+  },
+  {
+    "id": "C11",
+    "word": "empirical evidence",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "gözlem veya deneye dayalı kanıt.",
+    "example": "The argument requires empirical evidence, not merely an appealing example.",
+    "source_text": "gözlem veya deneye dayalı kanıt. *The argument requires empirical evidence, not merely an appealing example.* Sav, çekici bir örneğin ötesinde, gözlem veya deneye dayalı kanıt gerektirir. İpucu: düşünce balonundan ayrı gerçek gözlem kartı. Hatırla: yalnız makul hikâye yeterli midir?"
+  },
+  {
+    "id": "C12",
+    "word": "theoretical framework",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "kuramsal çerçeve.",
+    "example": "The framework guided the choice of variables.",
+    "source_text": "kuramsal çerçeve. *The framework guided the choice of variables.* Çerçeve değişken seçimine yön verdi. İpucu: soruları düzenleyen raf sistemi. Hatırla: kuramsal çerçeve ile araştırma bulgusu aynı mı?"
+  },
+  {
+    "id": "C13",
+    "word": "underlying assumption",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "temel veya örtük varsayım.",
+    "example": "The argument depends on an underlying assumption.",
+    "source_text": "temel veya örtük varsayım. *The argument depends on an underlying assumption.* Sav temel bir varsayıma dayanır. İpucu: halı altındaki görünmeyen zemin. Hatırla: *underlying* burada hangi ismi niteler?"
+  },
+  {
+    "id": "C14",
+    "word": "alternative explanation",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "alternatif açıklama.",
+    "example": "The design cannot exclude an alternative explanation.",
+    "source_text": "alternatif açıklama. *The design cannot exclude an alternative explanation.* Desen alternatif açıklamayı dışlayamaz. İpucu: aynı izden iki sonuç kartı. Hatırla: alternatifin elenememesi doğrulanması mıdır?"
+  },
+  {
+    "id": "C15",
+    "word": "preliminary findings",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "ön bulgular.",
+    "example": "The preliminary findings require further examination.",
+    "source_text": "ön bulgular. *The preliminary findings require further examination.* Ön bulgular ek inceleme gerektirir. İpucu: silgili taslak dosyası. Hatırla: *preliminary* kesin veya nihai anlamına mı gelir?"
+  },
+  {
+    "id": "C16",
+    "word": "statistically significant",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "istatistiksel olarak anlamlı.",
+    "example": "The difference was statistically significant but small.",
+    "source_text": "istatistiksel olarak anlamlı. *The difference was statistically significant but small.* Fark istatistiksel olarak anlamlı ama küçüktü. İpucu: büyüklük terazisinden ayrı sınama kartı. Hatırla: büyük etki zorunlu mu?"
+  },
+  {
+    "id": "C17",
+    "word": "causal relationship",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "nedensel ilişki.",
+    "example": "Association alone does not establish a causal relationship.",
+    "source_text": "nedensel ilişki. *Association alone does not establish a causal relationship.* Tek başına ilişki nedenselliği ortaya koymaz. İpucu: birlikte büyüyen bitkiler arasında olmayan neden oku. Hatırla: *correlation* yeterli mi?"
+  },
+  {
+    "id": "C18",
+    "word": "consistent with",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "bir şeyle uyumlu.",
+    "example": "The results are consistent with both explanations.",
+    "source_text": "bir şeyle uyumlu. *The results are consistent with both explanations.* Sonuçlar iki açıklamayla da uyumludur. İpucu: iki ayrı kalıba uyan desen. Hatırla: tek açıklama kanıtlandı mı?"
+  },
+  {
+    "id": "C19",
+    "word": "in light of",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "ışığında; dikkate alarak.",
+    "example": "The claim was revised in light of new evidence.",
+    "source_text": "ışığında; dikkate alarak. *The claim was revised in light of new evidence.* İddia yeni kanıt ışığında değiştirildi. İpucu: dosyayı aydınlatan lamba. Hatırla: bu ifade yeni kanıtın rolünü nasıl kurar?"
+  },
+  {
+    "id": "C20",
+    "word": "to some extent",
+    "day": 1,
+    "kind": "collocation",
+    "meaning": "bir ölçüde.",
+    "example": "The two accounts agree to some extent.",
+    "source_text": "bir ölçüde. *The two accounts agree to some extent.* İki anlatı bir ölçüde uyuşur. İpucu: kısmen üst üste gelen iki saydam daire. Hatırla: tam uyuşma söyleniyor mu?"
+  },
+  {
+    "id": "P13",
+    "word": "bring about",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "meydana getirmek.",
+    "example": "The changes brought about a reduction in waste.",
+    "source_text": "meydana getirmek. *The changes brought about a reduction in waste.* Değişiklikler atık azalması sağladı. İpucu: küçük kolun döndürdüğü çark. Ayrılabilir: *bring it about*. Hatırla: mevcut özelliği belirginleştiren *bring out* ile aynı mı?"
+  },
+  {
+    "id": "P14",
+    "word": "give rise to",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "yol açmak.",
+    "example": "Ambiguous instructions gave rise to several interpretations.",
+    "source_text": "yol açmak. *Ambiguous instructions gave rise to several interpretations.* Belirsiz yönergeler birkaç yoruma yol açtı. İpucu: tek kaynaktan çıkan dallar. Hatırla: *give rise ___ confusion* boşluğunu tamamla."
+  },
+  {
+    "id": "P15",
+    "word": "lead to",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "sonuç doğurmak.",
+    "example": "The delay led to additional costs.",
+    "source_text": "sonuç doğurmak. *The delay led to additional costs.* Gecikme ek maliyete yol açtı. İpucu: sonuç kapısına giden yol. Ardından isim veya V-ing gelir. Hatırla: *led to make errors* biçimini düzelt."
+  },
+  {
+    "id": "P16",
+    "word": "result from",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "kaynaklanmak.",
+    "example": "The damage resulted from prolonged exposure.",
+    "source_text": "kaynaklanmak. *The damage resulted from prolonged exposure.* Zarar uzun süre maruz kalmadan kaynaklandı. İpucu: sonuçtan kaynağa dönen ok. Hatırla: cümlede neden hangisidir?"
+  },
+  {
+    "id": "P17",
+    "word": "result in",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "sonuçlanmak veya yol açmak.",
+    "example": "The revision resulted in clearer instructions.",
+    "source_text": "sonuçlanmak veya yol açmak. *The revision resulted in clearer instructions.* Düzeltme daha açık yönergelerle sonuçlandı. İpucu: kaynaktan sonuca giden ok. Hatırla: *result from* yerine yazınca yön değişir mi?"
+  },
+  {
+    "id": "P18",
+    "word": "stem from",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "kaynaklanmak.",
+    "example": "The conflict stemmed from unequal access.",
+    "source_text": "kaynaklanmak. *The conflict stemmed from unequal access.* Çatışma eşitsiz erişimden kaynaklandı. İpucu: dallardan köke dönüş. Hatırla: kaynak hangisidir, çatışma mı erişim eşitsizliği mi?"
+  },
+  {
+    "id": "P19",
+    "word": "bring up",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "gündeme getirmek; çocuk yetiştirmek.",
+    "example": "The reviewer brought up the issue of sample size.",
+    "source_text": "gündeme getirmek; çocuk yetiştirmek. *The reviewer brought up the issue of sample size.* İnceleyici örneklem büyüklüğünü gündeme getirdi. İpucu: masaya kaldırılan konu kartı. Hatırla: zamirle *bring up it* biçimini düzelt."
+  },
+  {
+    "id": "P20",
+    "word": "cut down on",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "miktarı azaltmak.",
+    "example": "The workshop cut down on unnecessary packaging.",
+    "source_text": "miktarı azaltmak. *The workshop cut down on unnecessary packaging.* Atölye gereksiz ambalajı azalttı. İpucu: daralan malzeme yığını. Ayrılmaz: *cut down on it*. Hatırla: tamamen ortadan kaldırma zorunlu mu?"
+  },
+  {
+    "id": "P21",
+    "word": "phase out",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "aşamalı biçimde kullanımdan kaldırmak.",
+    "example": "The old forms were phased out over six months.",
+    "source_text": "aşamalı biçimde kullanımdan kaldırmak. *The old forms were phased out over six months.* Eski formlar altı ayda aşamalı kaldırıldı. İpucu: sırayla kapanan lambalar. Hatırla: ani mi aşamalı mı?"
+  },
+  {
+    "id": "P22",
+    "word": "carry on",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "devam etmek.",
+    "example": "The team carried on working despite the interruptions.",
+    "source_text": "devam etmek. *The team carried on working despite the interruptions.* Ekip kesintilere rağmen çalışmayı sürdürdü. İpucu: engelden sonra devam eden yol. Hatırla: *carry on work* yerine eylem biçimi ne olmalı?"
+  },
+  {
+    "id": "P23",
+    "word": "hold back",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "engellemek veya ilerlemeyi sınırlamak; saklı tutmak.",
+    "example": "Limited funding held back the restoration.",
+    "source_text": "engellemek veya ilerlemeyi sınırlamak; saklı tutmak. *Limited funding held back the restoration.* Sınırlı finansman restorasyonu yavaşlattı. İpucu: ağacı tutan halat. Hatırla: *hold information back* ile *hold back progress* aynı bağlamsal anlama mı gelir?"
+  },
+  {
+    "id": "P24",
+    "word": "break down",
+    "day": 2,
+    "kind": "phrasal",
+    "meaning": "bozulmak; daha küçük parçalara ayırmak.",
+    "example": "Break the sentence down into clauses.",
+    "source_text": "bozulmak; daha küçük parçalara ayırmak. *Break the sentence down into clauses.* Cümleyi cümleciklere ayır. İpucu: karmaşık mekanizmanın parçalara ayrılması. Hatırla: *The machine broke down* cümlesinde analiz mi arıza mı var?"
+  },
+  {
+    "id": "C21",
+    "word": "substantial change",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "kayda değer değişim.",
+    "example": "The reform led to substantial change.",
+    "source_text": "kayda değer değişim. *The reform led to substantial change.* Reform önemli değişim doğurdu. İpucu: kalın gövde. Hatırla: sözcük değişimin iyi olduğunu garanti eder mi?"
+  },
+  {
+    "id": "C22",
+    "word": "gradual decline",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "kademeli düşüş.",
+    "example": "The records show a gradual decline in attendance.",
+    "source_text": "kademeli düşüş. *The records show a gradual decline in attendance.* Kayıtlar katılımda kademeli düşüş gösteriyor. İpucu: yavaşça kısalan bitkiler. Hatırla: ani düşüşten farkı ne?"
+  },
+  {
+    "id": "C23",
+    "word": "sharp increase",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "keskin veya hızlı artış.",
+    "example": "There was a sharp increase in demand.",
+    "source_text": "keskin veya hızlı artış. *There was a sharp increase in demand.* Talep keskin biçimde arttı. İpucu: hızla yükselen kuyruk. Hatırla: *sharp* burada fiziksel bıçak mı?"
+  },
+  {
+    "id": "C24",
+    "word": "adverse effects",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "olumsuz etkiler.",
+    "example": "The review considered possible adverse effects.",
+    "source_text": "olumsuz etkiler. *The review considered possible adverse effects.* İnceleme olası olumsuz etkileri ele aldı. İpucu: zarar gören bitki. Hatırla: *possible* hangi kesinlik sınırını koyar?"
+  },
+  {
+    "id": "C25",
+    "word": "pose a threat",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "tehdit oluşturmak.",
+    "example": "Moisture poses a threat to the collection.",
+    "source_text": "tehdit oluşturmak. *Moisture poses a threat to the collection.* Nem koleksiyona tehdit oluşturur. İpucu: cam kutuya yaklaşan su. Hatırla: *pose* burada fotoğraf pozu mu?"
+  },
+  {
+    "id": "C26",
+    "word": "mitigate risk",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "riski azaltmak.",
+    "example": "The extra checks were intended to mitigate risk.",
+    "source_text": "riski azaltmak. *The extra checks were intended to mitigate risk.* Ek kontroller riski azaltmayı amaçladı. İpucu: kum torbaları. Hatırla: amaç, gerçekleşmiş etkiyle aynı mı?"
+  },
+  {
+    "id": "C27",
+    "word": "alleviate pressure",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "baskıyı hafifletmek.",
+    "example": "Additional staff alleviated pressure on the team.",
+    "source_text": "baskıyı hafifletmek. *Additional staff alleviated pressure on the team.* Ek personel ekipteki baskıyı hafifletti. İpucu: çantadan çıkarılan taşlar. Hatırla: tam ortadan kalkma var mı?"
+  },
+  {
+    "id": "C28",
+    "word": "exacerbate tensions",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "gerilimleri artırmak.",
+    "example": "The contradictory statements exacerbated tensions.",
+    "source_text": "gerilimleri artırmak. *The contradictory statements exacerbated tensions.* Çelişkili açıklamalar gerilimleri artırdı. İpucu: yellenen ateş. Hatırla: *exaggerate* ile farkını söyle."
+  },
+  {
+    "id": "C29",
+    "word": "facilitate access",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "erişimi kolaylaştırmak.",
+    "example": "The ramp facilitates access to the gallery.",
+    "source_text": "erişimi kolaylaştırmak. *The ramp facilitates access to the gallery.* Rampa galeriye erişimi kolaylaştırır. İpucu: arabanın rampası. Hatırla: yarar gören eylem hangisi?"
+  },
+  {
+    "id": "C30",
+    "word": "hinder progress",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "ilerlemeyi zorlaştırmak.",
+    "example": "Incomplete records hindered progress.",
+    "source_text": "ilerlemeyi zorlaştırmak. *Incomplete records hindered progress.* Eksik kayıtlar ilerlemeyi zorlaştırdı. İpucu: engeller arasındaki koşucu. Hatırla: ilerleme tamamen bitmiş olabilir mi, olmak zorunda mı?"
+  },
+  {
+    "id": "C31",
+    "word": "impose restrictions",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "sınırlamalar getirmek.",
+    "example": "The rules impose restrictions on copying.",
+    "source_text": "sınırlamalar getirmek. *The rules impose restrictions on copying.* Kurallar kopyalamaya sınırlamalar getirir. İpucu: dışarıdan yerleştirilen engel. Hatırla: kısıtlanan etkinlik hangisi?"
+  },
+  {
+    "id": "C32",
+    "word": "implement a policy",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "politikayı uygulamaya koymak.",
+    "example": "The council implemented the policy in stages.",
+    "source_text": "politikayı uygulamaya koymak. *The council implemented the policy in stages.* Belediye politikayı aşamalarla uyguladı. İpucu: modelden gerçek köprüye geçiş. Hatırla: yalnız önerildi mi?"
+  },
+  {
+    "id": "C33",
+    "word": "undergo a transformation",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "dönüşüm geçirmek.",
+    "example": "The district underwent a transformation.",
+    "source_text": "dönüşüm geçirmek. *The district underwent a transformation.* İlçe dönüşüm geçirdi. İpucu: onarımdan geçen sandalye. Hatırla: dönüşümü yapan mı, geçiren mi özne?"
+  },
+  {
+    "id": "C34",
+    "word": "adapt to change",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "değişime uyum sağlamak.",
+    "example": "Small firms adapted to the change at different speeds.",
+    "source_text": "değişime uyum sağlamak. *Small firms adapted to the change at different speeds.* Küçük firmalar değişime farklı hızlarda uyum sağladı. İpucu: değişen çevre. Hatırla: edat ne?"
+  },
+  {
+    "id": "C35",
+    "word": "maintain standards",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "standartları sürdürmek.",
+    "example": "The workshop maintained high standards despite limited funds.",
+    "source_text": "standartları sürdürmek. *The workshop maintained high standards despite limited funds.* Atölye kıt fonlara rağmen yüksek standartlarını sürdürdü. İpucu: düzenli yağlanan zincir. Hatırla: *despite* hangi ilişkiyi kuruyor?"
+  },
+  {
+    "id": "C36",
+    "word": "sustain growth",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "büyümeyi sürdürmek.",
+    "example": "The initial investment was insufficient to sustain growth.",
+    "source_text": "büyümeyi sürdürmek. *The initial investment was insufficient to sustain growth.* İlk yatırım büyümeyi sürdürmek için yetersizdi. İpucu: meyveli dal desteği. Hatırla: başlatma ile sürdürme aynı mı?"
+  },
+  {
+    "id": "C37",
+    "word": "preserve integrity",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "bütünlüğü veya sağlamlığı korumak.",
+    "example": "The repairs preserved the structure's integrity.",
+    "source_text": "bütünlüğü veya sağlamlığı korumak. *The repairs preserved the structure's integrity.* Onarımlar yapının bütünlüğünü korudu. İpucu: koruyucu cam kutu. Hatırla: *integrity* burada dürüstlük dışında hangi anlamı taşıyor?"
+  },
+  {
+    "id": "C38",
+    "word": "overcome obstacles",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "engelleri aşmak.",
+    "example": "The group overcame several practical obstacles.",
+    "source_text": "engelleri aşmak. *The group overcame several practical obstacles.* Grup birkaç pratik engeli aştı. İpucu: duvarın üstündeki dağcı. Hatırla: *overcome* geçmiş üçüncü biçimi ne?"
+  },
+  {
+    "id": "C39",
+    "word": "have implications for",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "bir şey açısından sonuçları veya etkileri olmak.",
+    "example": "The finding has implications for how the task is designed.",
+    "source_text": "bir şey açısından sonuçları veya etkileri olmak. *The finding has implications for how the task is designed.* Bulgunun görevin tasarlanışı açısından sonuçları vardır. İpucu: tek karttan tasarıma uzanan oklar. Hatırla: kesin uygulama başarısı söyleniyor mu?"
+  },
+  {
+    "id": "C40",
+    "word": "take into account",
+    "day": 2,
+    "kind": "collocation",
+    "meaning": "dikkate almak.",
+    "example": "The analysis took previous experience into account.",
+    "source_text": "dikkate almak. *The analysis took previous experience into account.* Analiz önceki deneyimi dikkate aldı. İpucu: değerlendirme masasına eklenen kart. Hatırla: *account for* ile aynı kalıp mı?"
+  },
+  {
+    "id": "P25",
+    "word": "use up",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "tamamını kullanıp tüketmek.",
+    "example": "The repairs used up the remaining funds.",
+    "source_text": "tamamını kullanıp tüketmek. *The repairs used up the remaining funds.* Onarımlar kalan fonları tüketti. İpucu: boşalan kömür deposu. *Use them up* doğaldır. Hatırla: *use* ile *use up* arasındaki tamamlanma farkı ne?"
+  },
+  {
+    "id": "P26",
+    "word": "run out of",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "elindeki kaynağı tüketmiş olmak.",
+    "example": "The team ran out of storage space.",
+    "source_text": "elindeki kaynağı tüketmiş olmak. *The team ran out of storage space.* Ekibin depolama alanı kalmadı. İpucu: dolan raf ve boş kaynak kutusu. *Run out of it* ayrılmaz. Hatırla: *The water ran out* ile *We ran out of water* özneleri nasıl farklı?"
+  },
+  {
+    "id": "P27",
+    "word": "make up",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "oluşturmak; telafi etmek dışındaki bağlamlarda uydurmak veya barışmak.",
+    "example": "Small farms make up most of the local businesses.",
+    "source_text": "oluşturmak; telafi etmek dışındaki bağlamlarda uydurmak veya barışmak. *Small farms make up most of the local businesses.* Küçük çiftlikler yerel işletmelerin çoğunu oluşturur. İpucu: parçalardan oluşan bütün sepet. Hatırla: *make up a story* mutlaka gerçek anlatı mı?"
+  },
+  {
+    "id": "P28",
+    "word": "consist of",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "oluşmak.",
+    "example": "The collection consists of three separate archives.",
+    "source_text": "oluşmak. *The collection consists of three separate archives.* Koleksiyon üç ayrı arşivden oluşur. İpucu: bütün sepet içindeki parçalar. *Is consisted of* bu anlamda kullanılmaz. Hatırla: bu yanlış edilgen biçimi düzelt."
+  },
+  {
+    "id": "P29",
+    "word": "rely on",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "güvenmek; dayanmak.",
+    "example": "The workshop relies on local suppliers.",
+    "source_text": "güvenmek; dayanmak. *The workshop relies on local suppliers.* Atölye yerel tedarikçilere dayanır. İpucu: desteklenen dal. *Rely on them* kullanılır. Hatırla: *rely to suppliers* ifadesindeki edatı düzelt."
+  },
+  {
+    "id": "P30",
+    "word": "depend on",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "bağlı olmak.",
+    "example": "Access depends on the condition of the documents.",
+    "source_text": "bağlı olmak. *Access depends on the condition of the documents.* Erişim belgelerin durumuna bağlıdır. İpucu: koşul anahtarıyla açılan kapı. Hatırla: *depend on* bir neden mi, koşullu bağımlılık mı kurar?"
+  },
+  {
+    "id": "P31",
+    "word": "provide for",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "geçimini veya gereksinimini sağlamak; düzenlemede öngörmek.",
+    "example": "The agreement provides for annual inspections.",
+    "source_text": "geçimini veya gereksinimini sağlamak; düzenlemede öngörmek. *The agreement provides for annual inspections.* Anlaşma yıllık incelemeleri öngörür. İpucu: politika dosyasındaki takvim. Hatırla: burada birine nesne vermek mi, düzenleme yapmak mı?"
+  },
+  {
+    "id": "P32",
+    "word": "put aside",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "ayırmak; bir konuyu geçici olarak kenara koymak.",
+    "example": "They put aside funds for unexpected repairs.",
+    "source_text": "ayırmak; bir konuyu geçici olarak kenara koymak. *They put aside funds for unexpected repairs.* Beklenmedik onarımlar için fon ayırdılar. İpucu: etiketli yedek sepet. Zamirle *put them aside*. Hatırla: *put aside them* biçimini düzelt."
+  },
+  {
+    "id": "P33",
+    "word": "take up",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "yer veya zaman kaplamak; bir uğraşa başlamak.",
+    "example": "The large cabinets take up most of the room.",
+    "source_text": "yer veya zaman kaplamak; bir uğraşa başlamak. *The large cabinets take up most of the room.* Büyük dolaplar odanın çoğunu kaplar. İpucu: alanı dolduran kitap yığını. Hatırla: *take up gardening* burada yer kaplamak mı?"
+  },
+  {
+    "id": "P34",
+    "word": "deal with",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "ele almak; uğraşmak; başa çıkmak.",
+    "example": "The final section deals with access restrictions.",
+    "source_text": "ele almak; uğraşmak; başa çıkmak. *The final section deals with access restrictions.* Son bölüm erişim sınırlamalarını ele alır. İpucu: masaya gelen konu dosyası. Hatırla: burada *deal* alışveriş yapmak anlamında mı?"
+  },
+  {
+    "id": "P35",
+    "word": "take over",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "yönetimi veya görevi devralmak.",
+    "example": "A local association took over the maintenance of the building.",
+    "source_text": "yönetimi veya görevi devralmak. *A local association took over the maintenance of the building.* Yerel dernek binanın bakımını devraldı. İpucu: bakım anahtarının el değiştirmesi. Hatırla: *take over* fiziksel bina satın alındı sonucunu zorunlu kılar mı?"
+  },
+  {
+    "id": "P36",
+    "word": "make up for",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "kaybı veya eksikliği telafi etmek.",
+    "example": "Extra time could not make up for the lack of suitable equipment.",
+    "source_text": "kaybı veya eksikliği telafi etmek. *Extra time could not make up for the lack of suitable equipment.* Ek süre uygun ekipman yokluğunu telafi edemedi. İpucu: eksik ağırlığı dengeleyen ek taş. Hatırla: hangi edat zorunlu?"
+  },
+  {
+    "id": "P37",
+    "word": "cut off",
+    "day": 3,
+    "kind": "phrasal",
+    "meaning": "kesmek; bağlantıyı veya erişimi koparmak.",
+    "example": "The flood cut off access to the village.",
+    "source_text": "kesmek; bağlantıyı veya erişimi koparmak. *The flood cut off access to the village.* Sel köye erişimi kesti. İpucu: kesilmiş yol. *Cut it off* kullanılır. Hatırla: *cut down on* ile aynı dereceyi mi anlatır?"
+  },
+  {
+    "id": "C41",
+    "word": "allocate resources",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "kaynak tahsis etmek.",
+    "example": "The council allocated resources to remote schools.",
+    "source_text": "kaynak tahsis etmek. *The council allocated resources to remote schools.* Belediye uzak okullara kaynak ayırdı. İpucu: projelerin sepetleri. Hatırla: kaynak alanlar kim?"
+  },
+  {
+    "id": "C42",
+    "word": "limited availability",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "sınırlı bulunabilirlik.",
+    "example": "Limited availability delayed the purchase.",
+    "source_text": "sınırlı bulunabilirlik. *Limited availability delayed the purchase.* Sınırlı bulunabilirlik satın almayı geciktirdi. İpucu: boş depodaki tek paket. Hatırla: *availability* hangi sıfattan türemiştir?"
+  },
+  {
+    "id": "C43",
+    "word": "growing demand",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "artan talep.",
+    "example": "Growing demand placed pressure on suppliers.",
+    "source_text": "artan talep. *Growing demand placed pressure on suppliers.* Artan talep tedarikçileri zorladı. İpucu: uzayan müşteri kuyruğu. Hatırla: talep artışı arzın arttığını da söyler mi?"
+  },
+  {
+    "id": "C44",
+    "word": "meet requirements",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "gereklilikleri karşılamak.",
+    "example": "The proposal met all technical requirements.",
+    "source_text": "gereklilikleri karşılamak. *The proposal met all technical requirements.* Öneri bütün teknik gereklilikleri karşıladı. İpucu: pil yuvasındaki uygun pil. Hatırla: *meet* burada biriyle tanışmak mı?"
+  },
+  {
+    "id": "C45",
+    "word": "gain access",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "erişim elde etmek.",
+    "example": "The team gained access to the original notebooks.",
+    "source_text": "erişim elde etmek. *The team gained access to the original notebooks.* Ekip özgün defterlere erişim elde etti. İpucu: açılan arşiv kapısı. Hatırla: erişilen nesneden önce hangi edat?"
+  },
+  {
+    "id": "C46",
+    "word": "provide assistance",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "yardım sağlamak.",
+    "example": "Volunteers provided assistance during the move.",
+    "source_text": "yardım sağlamak. *Volunteers provided assistance during the move.* Gönüllüler taşınmada yardım etti. İpucu: battaniye uzatan ev sahibi. Hatırla: *assistance* genel kullanımda sayılabilir mi?"
+  },
+  {
+    "id": "C47",
+    "word": "conserve energy",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "enerji tasarrufu sağlamak.",
+    "example": "The design conserves energy by reducing heat loss.",
+    "source_text": "enerji tasarrufu sağlamak. *The design conserves energy by reducing heat loss.* Tasarım ısı kaybını azaltarak enerji tasarrufu sağlar. İpucu: kapanan kaçak musluk. Hatırla: *by reducing* araç mı amaç mı?"
+  },
+  {
+    "id": "C48",
+    "word": "deplete reserves",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "rezervleri tüketmek veya ciddi azaltmak.",
+    "example": "The emergency repairs depleted the reserves.",
+    "source_text": "rezervleri tüketmek veya ciddi azaltmak. *The emergency repairs depleted the reserves.* Acil onarımlar rezervleri tüketti. İpucu: boşalan kömür deposu. Hatırla: karşıt yenileme fiili ne?"
+  },
+  {
+    "id": "C49",
+    "word": "replenish supplies",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "azalan malzemeyi yeniden tamamlamak.",
+    "example": "The crew replenished supplies at the next village.",
+    "source_text": "azalan malzemeyi yeniden tamamlamak. *The crew replenished supplies at the next village.* Ekip erzakı sonraki köyde tamamladı. İpucu: yeniden dolan bardak. Hatırla: önceden azalma olması bu kalıba uygun mu?"
+  },
+  {
+    "id": "C50",
+    "word": "habitat loss",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "yaşam alanı kaybı.",
+    "example": "The article focuses on habitat loss rather than hunting.",
+    "source_text": "yaşam alanı kaybı. *The article focuses on habitat loss rather than hunting.* Makale avlanmadan ziyade yaşam alanı kaybına odaklanır. İpucu: kunduz çevresinde eksilen alan. Hatırla: iki açıklamadan hangisi ele alınır?"
+  },
+  {
+    "id": "C51",
+    "word": "renewable resources",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "yenilenebilir kaynaklar.",
+    "example": "The plan makes greater use of renewable resources.",
+    "source_text": "yenilenebilir kaynaklar. *The plan makes greater use of renewable resources.* Plan yenilenebilir kaynakları daha çok kullanır. İpucu: tekrar gelen güneş ve rüzgâr. Hatırla: yenilenebilir olmak sınırsız kullanılabilirlik mi?"
+  },
+  {
+    "id": "C52",
+    "word": "vulnerable to",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "bir şeye karşı savunmasız.",
+    "example": "The records are vulnerable to moisture.",
+    "source_text": "bir şeye karşı savunmasız. *The records are vulnerable to moisture.* Kayıtlar neme karşı hassastır. İpucu: çitsiz fide. Hatırla: zarar kesin gerçekleşmiş mi?"
+  },
+  {
+    "id": "C53",
+    "word": "prevalent among",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "bir grup içinde yaygın.",
+    "example": "The view was prevalent among the interviewees.",
+    "source_text": "bir grup içinde yaygın. *The view was prevalent among the interviewees.* Görüş görüşülenler arasında yaygındı. İpucu: bahçedeki çok sayıda lekeli yaprak. Hatırla: kapsam hangi grupla sınırlı?"
+  },
+  {
+    "id": "C54",
+    "word": "unequal distribution",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "eşit olmayan dağılım.",
+    "example": "Unequal distribution limited the benefits for some areas.",
+    "source_text": "eşit olmayan dağılım. *Unequal distribution limited the benefits for some areas.* Eşitsiz dağılım bazı bölgelerin yararını sınırladı. İpucu: farklı dolu elma sepetleri. Hatırla: toplam miktar aynı kalsa dağılım değişebilir mi?"
+  },
+  {
+    "id": "C55",
+    "word": "impose a burden",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "yük getirmek.",
+    "example": "The reporting system imposed a burden on small offices.",
+    "source_text": "yük getirmek. *The reporting system imposed a burden on small offices.* Raporlama sistemi küçük ofislere yük getirdi. İpucu: ağırlaşan çanta. Hatırla: yüklenen taraf hangi edatla gelir?"
+  },
+  {
+    "id": "C56",
+    "word": "social welfare",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "toplumsal refah veya sosyal destek.",
+    "example": "The debate concerned the effects of the policy on social welfare.",
+    "source_text": "toplumsal refah veya sosyal destek. *The debate concerned the effects of the policy on social welfare.* Tartışma politikanın toplumsal refaha etkileriyle ilgiliydi. İpucu: toplum bakım sahnesi. Hatırla: *wealth* ile aynı mı?"
+  },
+  {
+    "id": "C57",
+    "word": "comply with regulations",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "düzenlemelere uymak.",
+    "example": "All suppliers must comply with the regulations.",
+    "source_text": "düzenlemelere uymak. *All suppliers must comply with the regulations.* Bütün tedarikçiler düzenlemelere uymalıdır. İpucu: doğru şeritte bisikletli. Hatırla: *must* gerçekleşmiş uyumu kanıtlar mı?"
+  },
+  {
+    "id": "C58",
+    "word": "participate in",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "katılmak.",
+    "example": "Residents participated in the planning process.",
+    "source_text": "katılmak. *Residents participated in the planning process.* Sakinler planlama sürecine katıldı. İpucu: ağaç diken gruba giren kişi. Hatırla: *participate to* biçimini düzelt."
+  },
+  {
+    "id": "C59",
+    "word": "mutual cooperation",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "karşılıklı iş birliği.",
+    "example": "The project depended on mutual cooperation.",
+    "source_text": "karşılıklı iş birliği. *The project depended on mutual cooperation.* Proje karşılıklı iş birliğine dayanıyordu. İpucu: birlikte taşınan kiriş. Hatırla: *mutual* tek taraflı mı karşılıklı mı?"
+  },
+  {
+    "id": "C60",
+    "word": "sustainable development",
+    "day": 3,
+    "kind": "collocation",
+    "meaning": "sürdürülebilir gelişim veya kalkınma.",
+    "example": "The proposal links conservation with sustainable development.",
+    "source_text": "sürdürülebilir gelişim veya kalkınma. *The proposal links conservation with sustainable development.* Öneri korumayı sürdürülebilir kalkınmayla ilişkilendirir. İpucu: destekle süren dal ve korunmuş depo. Hatırla: *sustainable* yalnız hızla büyümek midir?"
+  },
+  {
+    "id": "P38",
+    "word": "rule out",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "olasılığı dışlamak.",
+    "example": "We cannot rule out an alternative explanation.",
+    "source_text": "olasılığı dışlamak. *We cannot rule out an alternative explanation.* Alternatif açıklamayı dışlayamayız. İpucu: masada kalan aday kartı. *Rule it out* ayrılabilir. Hatırla: elenemeyen açıklama kanıtlanmış mıdır?"
+  },
+  {
+    "id": "P39",
+    "word": "back up",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "desteklemek; yedeklemek.",
+    "example": "The claim was backed up by dated photographs.",
+    "source_text": "desteklemek; yedeklemek. *The claim was backed up by dated photographs.* İddia tarihli fotoğraflarla desteklendi. İpucu: savın arkasındaki kiriş. *Back up the files* dosyaları yedeklemek olabilir. Hatırla: nesne anlamı değiştirir mi?"
+  },
+  {
+    "id": "P40",
+    "word": "turn down",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "reddetmek; ses veya gücü azaltmak.",
+    "example": "The committee turned down the proposal.",
+    "source_text": "reddetmek; ses veya gücü azaltmak. *The committee turned down the proposal.* Komite öneriyi reddetti. İpucu: kapatılan teklif dosyası. *Turn it down*. Hatırla: *turn down the volume* reddetmek midir?"
+  },
+  {
+    "id": "P41",
+    "word": "put forward",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "görüş veya öneri ileri sürmek.",
+    "example": "The author put forward a different explanation.",
+    "source_text": "görüş veya öneri ileri sürmek. *The author put forward a different explanation.* Yazar farklı açıklama ileri sürdü. İpucu: tartışma masasına uzatılan kart. Hatırla: *put forward* doğruluğu kanıtlar mı?"
+  },
+  {
+    "id": "P42",
+    "word": "come up with",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "fikir veya çözüm bulmak.",
+    "example": "The group came up with a feasible solution.",
+    "source_text": "fikir veya çözüm bulmak. *The group came up with a feasible solution.* Grup uygulanabilir çözüm buldu. İpucu: masaya gelen yeni araç. Ayrılmaz: *come up with it*. Hatırla: *come it up with* biçimini düzelt."
+  },
+  {
+    "id": "P43",
+    "word": "call for",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "gerektirmek; çağrıda bulunmak.",
+    "example": "The discrepancy calls for further examination.",
+    "source_text": "gerektirmek; çağrıda bulunmak. *The discrepancy calls for further examination.* Tutarsızlık ek inceleme gerektirir. İpucu: çatlak köprünün yanındaki inceleme kartı. Hatırla: burada telefon etmek anlamı var mı?"
+  },
+  {
+    "id": "P44",
+    "word": "call into question",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "geçerliliğini sorgulanır hâle getirmek.",
+    "example": "The missing data call the conclusion into question.",
+    "source_text": "geçerliliğini sorgulanır hâle getirmek. *The missing data call the conclusion into question.* Eksik veriler sonucu sorgulanır hâle getirir. İpucu: kürsüdeki soru işareti. Hatırla: kesin çürütmeyle eşitlemek her zaman doğru mu?"
+  },
+  {
+    "id": "P45",
+    "word": "look forward to",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "gelecekteki bir şeyi istekle beklemek.",
+    "example": "The participants looked forward to receiving feedback.",
+    "source_text": "gelecekteki bir şeyi istekle beklemek. *The participants looked forward to receiving feedback.* Katılımcılar geri bildirim almayı bekliyordu. İpucu: sonraki güne dönük açık kapı. Hatırla: *to receive* mi *to receiving* mi bu kalıpta doğru?"
+  },
+  {
+    "id": "P46",
+    "word": "put up with",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "hoş olmayan duruma katlanmak.",
+    "example": "The residents refused to put up with constant noise.",
+    "source_text": "hoş olmayan duruma katlanmak. *The residents refused to put up with constant noise.* Sakinler sürekli gürültüye katlanmayı reddetti. İpucu: yağmurda süren yürüyüş, ama istenmeyen durum vurgusu. Hatırla: *put up with it* ayrılır mı?"
+  },
+  {
+    "id": "P47",
+    "word": "keep up with",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "hızına veya gelişmelere ayak uydurmak.",
+    "example": "The staff could not keep up with growing demand.",
+    "source_text": "hızına veya gelişmelere ayak uydurmak. *The staff could not keep up with growing demand.* Çalışanlar artan talebe yetişemedi. İpucu: hızlanan yürüyen bant. Hatırla: *keep up with* aynı noktada kalmak mı?"
+  },
+  {
+    "id": "P48",
+    "word": "come across",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "rastlamak; izlenim vermek.",
+    "example": "The researcher came across an unknown letter.",
+    "source_text": "rastlamak; izlenim vermek. *The researcher came across an unknown letter.* Araştırmacı bilinmeyen bir mektuba rastladı. İpucu: virajdaki beklenmedik karşılaşma. *Come across as confident* kendinden emin görünmek. Hatırla: iki anlamı nesneyle ayır."
+  },
+  {
+    "id": "P49",
+    "word": "bring out",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "açığa çıkarmak; yayımlamak.",
+    "example": "The discussion brought out several overlooked assumptions.",
+    "source_text": "açığa çıkarmak; yayımlamak. *The discussion brought out several overlooked assumptions.* Tartışma gözden kaçmış varsayımları ortaya çıkardı. İpucu: açılan saklı resim. Hatırla: *bring it out* mı *bring out it* mi?"
+  },
+  {
+    "id": "P50",
+    "word": "point to",
+    "day": 4,
+    "kind": "phrasal",
+    "meaning": "bir sonucu veya açıklamayı işaret etmek.",
+    "example": "The records point to an earlier date of construction.",
+    "source_text": "bir sonucu veya açıklamayı işaret etmek. *The records point to an earlier date of construction.* Kayıtlar daha eski bir inşa tarihine işaret ediyor. İpucu: yön levhası. Hatırla: *point out* ile *point to* her cümlede aynı mı?"
+  },
+  {
+    "id": "C61",
+    "word": "compelling evidence",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "güçlü ve ikna edici kanıt.",
+    "example": "The photographs provide compelling evidence of later alterations.",
+    "source_text": "güçlü ve ikna edici kanıt. *The photographs provide compelling evidence of later alterations.* Fotoğraflar sonraki değişikliklere güçlü kanıt sağlar. İpucu: uyumlu ipuçları. Hatırla: kanıtın neyi desteklediğini kapsamıyla söyle."
+  },
+  {
+    "id": "C62",
+    "word": "plausible explanation",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "makul açıklama.",
+    "example": "The explanation is plausible but untested.",
+    "source_text": "makul açıklama. *The explanation is plausible but untested.* Açıklama makul ama sınanmamıştır. İpucu: soru işaretli ziyaretçi izi. Hatırla: bu iki özellik çelişir mi?"
+  },
+  {
+    "id": "C63",
+    "word": "tentative conclusion",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "kesinleşmemiş sonuç.",
+    "example": "The authors offer only a tentative conclusion.",
+    "source_text": "kesinleşmemiş sonuç. *The authors offer only a tentative conclusion.* Yazarlar yalnız ihtiyatlı bir sonuç sunar. İpucu: silgili taslak. Hatırla: *only* kesinliği artırır mı sınırlar mı?"
+  },
+  {
+    "id": "C64",
+    "word": "acknowledge limitations",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "sınırlamaları kabul etmek.",
+    "example": "The report acknowledges several limitations.",
+    "source_text": "sınırlamaları kabul etmek. *The report acknowledges several limitations.* Rapor birkaç sınırlamayı kabul eder. İpucu: heykelde gösterilen çatlak. Hatırla: bütün çalışmayı reddetmek gerekir mi?"
+  },
+  {
+    "id": "C65",
+    "word": "raise concerns",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "kaygı veya soru işaretleri doğurmak.",
+    "example": "The omission raises concerns about completeness.",
+    "source_text": "kaygı veya soru işaretleri doğurmak. *The omission raises concerns about completeness.* Eksiklik bütünlük konusunda kaygı doğurur. İpucu: masaya kaldırılan sorun kartı. Hatırla: *concerns arise* biçiminde özne değişir mi?"
+  },
+  {
+    "id": "C66",
+    "word": "challenge assumptions",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "varsayımları sorgulamak.",
+    "example": "The findings challenge common assumptions about speed.",
+    "source_text": "varsayımları sorgulamak. *The findings challenge common assumptions about speed.* Bulgular hızla ilgili yaygın varsayımları sorgular. İpucu: köprüdeki çatlağı gösteren kişi. Hatırla: her varsayımın kesin yanlışlığı söylenir mi?"
+  },
+  {
+    "id": "C67",
+    "word": "justify a decision",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "kararı gerekçelendirmek.",
+    "example": "The committee justified its decision by referring to the costs.",
+    "source_text": "kararı gerekçelendirmek. *The committee justified its decision by referring to the costs.* Komite maliyetlere dayanarak kararını gerekçelendirdi. İpucu: kiriş tercihini açıklayan usta. Hatırla: gerekçe hangi bölümde?"
+  },
+  {
+    "id": "C68",
+    "word": "refute a claim",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "iddiayı çürütmek.",
+    "example": "The dated record refuted the claim.",
+    "source_text": "iddiayı çürütmek. *The dated record refuted the claim.* Tarihli kayıt iddiayı çürüttü. İpucu: batan taş. Hatırla: yalnız *disagree* yeterli mi?"
+  },
+  {
+    "id": "C69",
+    "word": "advocate reform",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "reformu savunmak.",
+    "example": "The report advocates reform of the access rules.",
+    "source_text": "reformu savunmak. *The report advocates reform of the access rules.* Rapor erişim kurallarının değiştirilmesini savunuyor. İpucu: ağacı koruma çağrısı. Hatırla: savunmak ile uygulanmış olmak aynı mı?"
+  },
+  {
+    "id": "C70",
+    "word": "express reservations",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "çekince belirtmek.",
+    "example": "The reviewer expressed reservations about the interpretation.",
+    "source_text": "çekince belirtmek. *The reviewer expressed reservations about the interpretation.* İnceleyici yoruma ilişkin çekinceler belirtti. İpucu: onaydan önce duran el. Hatırla: *reservations* burada otel rezervasyonu mu?"
+  },
+  {
+    "id": "C71",
+    "word": "considerable variation",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "kayda değer farklılık.",
+    "example": "There was considerable variation across regions.",
+    "source_text": "kayda değer farklılık. *There was considerable variation across regions.* Bölgeler arasında önemli farklılık vardı. İpucu: büyüklükleri farklı kitap yığınları. Hatırla: varyasyon ortalama düzeyi tek başına verir mi?"
+  },
+  {
+    "id": "C72",
+    "word": "marginal improvement",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "küçük iyileşme.",
+    "example": "Only a marginal improvement was observed.",
+    "source_text": "küçük iyileşme. *Only a marginal improvement was observed.* Yalnız küçük iyileşme gözlendi. İpucu: sepete eklenen tek çakıl. Hatırla: hiç iyileşme olmadı mı?"
+  },
+  {
+    "id": "C73",
+    "word": "negligible effect",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "ihmal edilebilir etki.",
+    "example": "The additional step had a negligible effect on accuracy.",
+    "source_text": "ihmal edilebilir etki. *The additional step had a negligible effect on accuracy.* Ek adımın doğruluk üzerindeki etkisi çok küçüktü. İpucu: terazideki kum tanesi. Hatırla: matematiksel sıfır zorunlu mu?"
+  },
+  {
+    "id": "C74",
+    "word": "sufficient evidence",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "yeterli kanıt.",
+    "example": "There is insufficient evidence to identify the cause.",
+    "source_text": "yeterli kanıt. *There is insufficient evidence to identify the cause.* Nedeni belirlemek için yeterli kanıt yoktur. İpucu: hedef saksıya yetmeyen su. Hatırla: yeterlilik hangi amaç için değerlendiriliyor?"
+  },
+  {
+    "id": "C75",
+    "word": "adequate explanation",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "yeterli açıklama.",
+    "example": "The account gives an adequate explanation of the sequence.",
+    "source_text": "yeterli açıklama. *The account gives an adequate explanation of the sequence.* Anlatım sırayı yeterince açıklar. İpucu: yağmuru durduran sade çatı. Hatırla: kusursuz veya en iyi açıklama mı?"
+  },
+  {
+    "id": "C76",
+    "word": "regardless of",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "bakılmaksızın.",
+    "example": "The rule applies regardless of experience.",
+    "source_text": "bakılmaksızın. *The rule applies regardless of experience.* Kural deneyime bakılmaksızın geçerlidir. İpucu: her havada yürüyüş. Hatırla: *regarding* ile farkını söyle."
+  },
+  {
+    "id": "C77",
+    "word": "in contrast to",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "aksine; karşılaştırıldığında farklı olarak.",
+    "example": "In contrast to the first method, the second requires no equipment.",
+    "source_text": "aksine; karşılaştırıldığında farklı olarak. *In contrast to the first method, the second requires no equipment.* İlk yöntemin aksine ikincisi ekipman gerektirmez. İpucu: yan yana iki bahçe. Hatırla: hangi yöntem ekipman gerektirmiyor?"
+  },
+  {
+    "id": "C78",
+    "word": "as opposed to",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "karşıt olarak; -den farklı olarak.",
+    "example": "The task measures recall as opposed to recognition.",
+    "source_text": "karşıt olarak; -den farklı olarak. *The task measures recall as opposed to recognition.* Görev tanımadan farklı olarak hatırlamayı ölçer. İpucu: iki ayrı hedef tahtası. Hatırla: ölçülen hangisi?"
+  },
+  {
+    "id": "C79",
+    "word": "on the grounds that",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "şu gerekçeyle.",
+    "example": "The proposal was rejected on the grounds that it lacked adequate funding.",
+    "source_text": "şu gerekçeyle. *The proposal was rejected on the grounds that it lacked adequate funding.* Öneri yeterli fonu olmadığı gerekçesiyle reddedildi. İpucu: kararın altındaki gerekçe temeli. Hatırla: bağlaç sonrasında tam cümle mi gelir?"
+  },
+  {
+    "id": "C80",
+    "word": "to the extent that",
+    "day": 4,
+    "kind": "collocation",
+    "meaning": "olduğu ölçüde; belirli derece veya bağlantı sınırı içinde.",
+    "example": "The method is useful to the extent that it makes the distinction clear.",
+    "source_text": "olduğu ölçüde; belirli derece veya bağlantı sınırı içinde. *The method is useful to the extent that it makes the distinction clear.* Yöntem ayrımı netleştirdiği ölçüde yararlıdır. İpucu: dereceli yarar ölçeği. Hatırla: sınırsız yarar mı?"
+  }
+]

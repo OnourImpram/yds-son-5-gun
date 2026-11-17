@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="509.27559055118115" height="122" preserveAspectRatio="xMinYMin meet" viewBox="0 0 509 122" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="509.27559055118115" height="122"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-122)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="107.0" style="font-family: BodyBold; font-size: 11.5px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,214) scale(1,-1)">Çeviride beş sabit</text>
+			<rect x="0.0" y="35" width="92.25511811023622" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="24.903909055118113" y="67.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,134) scale(1,-1)">Kim ve ne</text>
+			<rect x="104.25511811023622" y="35" width="92.25511811023622" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="129.30257716535434" y="67.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,134) scale(1,-1)">Zaman ve</text>
+			<text x="132.22577716535432" y="55.255" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,110) scale(1,-1)">görünüş</text>
+			<rect x="208.51023622047245" y="35" width="92.2551181102362" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="232.20484527559057" y="67.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,134) scale(1,-1)">Olasılık ve</text>
+			<text x="231.06514527559057" y="55.255" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,110) scale(1,-1)">zorunluluk</text>
+			<rect x="312.76535433070865" y="35" width="92.25511811023625" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="335.38551338582675" y="67.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,134) scale(1,-1)">Kapsam ve</text>
+			<text x="343.2242133858268" y="55.255" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,110) scale(1,-1)">mantık</text>
+			<rect x="417.0204724409449" y="35" width="92.25511811023625" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="440.20613149606305" y="67.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,134) scale(1,-1)">Bilgi odağı</text>
+			<path d="M 92.255118,59.5 L 101.255118,59.5 Z" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="101.2551 59.5, 97.25512 62.5, 97.25512 56.5" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,54%,17%); fill-rule: evenodd;"/>
+			<path d="M 196.510236,59.5 L 205.510236,59.5 Z" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="205.5102 59.5, 201.5102 62.5, 201.5102 56.5" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,54%,17%); fill-rule: evenodd;"/>
+			<path d="M 300.765354,59.5 L 309.765354,59.5 Z" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="309.7654 59.5, 305.7654 62.5, 305.7654 56.5" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,54%,17%); fill-rule: evenodd;"/>
+			<path d="M 405.020472,59.5 L 414.020472,59.5 Z" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="414.0205 59.5, 410.0205 62.5, 410.0205 56.5" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,54%,17%); fill-rule: evenodd;"/>
+			<text x="6" y="18.0" style="font-family: Body; font-size: 8.5px;fill: rgb(32%,38%,41%); stroke:none;" transform="translate(0,36) scale(1,-1)">• Kelimeler değişebilir; bu ilişkiler korunur.</text>
+		</g>
+	</g>
+</svg>

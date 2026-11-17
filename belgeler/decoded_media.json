@@ -1,0 +1,13 @@
+{
+  "book": "out/YDS_Son_5_Gun_Etkilesimli_Kitap.html",
+  "inline_references": {
+    "audio/mpeg": 1537,
+    "image/png": 176
+  },
+  "unique_images_decoded": 176,
+  "unique_audio_total": 1537,
+  "unique_audio_decoded": 1537,
+  "scripts": 3,
+  "internal_anchor_references_checked": 8,
+  "errors": []
+}

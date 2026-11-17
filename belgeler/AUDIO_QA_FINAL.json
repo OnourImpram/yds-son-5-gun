@@ -1,0 +1,259 @@
+{
+  "frozen_utc": "2026-11-17T15:01:46.018737+00:00",
+  "status": "completed_with_documented_ASR_uncertainty",
+  "files": 1537,
+  "entries": 1226,
+  "duration_seconds": 4417.872,
+  "bytes": 53869058,
+  "audio_decode": {
+    "checked": 1537,
+    "passed": 1537,
+    "issues": []
+  },
+  "asr_full_sweep": {
+    "model": "faster-whisper base.en int8",
+    "current_files_checked": 1537,
+    "exact_after_case_and_punctuation_normalisation": 1384,
+    "non_exact_transcripts": 153,
+    "all_current_audio_hashes_match": true,
+    "meaning": "Transcript matching is a diagnostic check, not a pronunciation accuracy score. British/American spelling, homophones and short-utterance ASR errors account for many differences."
+  },
+  "strong_asr_spotcheck": {
+    "model": "faster-whisper small.en int8",
+    "current_unique_files_checked": 88,
+    "all_five_readings_checked": true,
+    "final_repair_files_checked": 27
+  },
+  "phoneme_review": {
+    "pronunciation_entries_reviewed": 1221,
+    "pos_sensitive_words_checked_with_dictionary": true,
+    "frozen_clarity_candidates": 27,
+    "model_and_voice_hashes_matched_official_release": true
+  },
+  "reading_semantic_qualifiers": {
+    "all_matched": true,
+    "tokens_reviewed": [
+      "not",
+      "no",
+      "may",
+      "might",
+      "could",
+      "would",
+      "necessarily",
+      "only",
+      "yet",
+      "all",
+      "some"
+    ],
+    "records": [
+      {
+        "id": "R01",
+        "qualifiers": {
+          "not": {
+            "expected": 4,
+            "transcribed": 4
+          },
+          "may": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "could": {
+            "expected": 4,
+            "transcribed": 4
+          },
+          "some": {
+            "expected": 1,
+            "transcribed": 1
+          }
+        },
+        "differences": [
+          {
+            "operation": "replace",
+            "expected": "catalogue",
+            "transcribed": "catalog"
+          },
+          {
+            "operation": "replace",
+            "expected": "catalogue",
+            "transcribed": "catalog"
+          }
+        ]
+      },
+      {
+        "id": "R02",
+        "qualifiers": {
+          "not": {
+            "expected": 4,
+            "transcribed": 4
+          },
+          "may": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "might": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "could": {
+            "expected": 3,
+            "transcribed": 3
+          },
+          "would": {
+            "expected": 4,
+            "transcribed": 4
+          },
+          "necessarily": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "some": {
+            "expected": 1,
+            "transcribed": 1
+          }
+        },
+        "differences": []
+      },
+      {
+        "id": "R03",
+        "qualifiers": {
+          "not": {
+            "expected": 2,
+            "transcribed": 2
+          },
+          "could": {
+            "expected": 4,
+            "transcribed": 4
+          },
+          "would": {
+            "expected": 2,
+            "transcribed": 2
+          },
+          "only": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "yet": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "some": {
+            "expected": 1,
+            "transcribed": 1
+          }
+        },
+        "differences": [
+          {
+            "operation": "replace",
+            "expected": "a",
+            "transcribed": "the"
+          },
+          {
+            "operation": "replace",
+            "expected": "seed",
+            "transcribed": "seeds"
+          }
+        ]
+      },
+      {
+        "id": "R04",
+        "qualifiers": {
+          "not": {
+            "expected": 3,
+            "transcribed": 3
+          },
+          "could": {
+            "expected": 2,
+            "transcribed": 2
+          },
+          "would": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "only": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "all": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "some": {
+            "expected": 1,
+            "transcribed": 1
+          }
+        },
+        "differences": [
+          {
+            "operation": "replace",
+            "expected": "a",
+            "transcribed": "the"
+          },
+          {
+            "operation": "replace",
+            "expected": "travelling",
+            "transcribed": "traveling"
+          },
+          {
+            "operation": "replace",
+            "expected": "recognise",
+            "transcribed": "recognize"
+          }
+        ]
+      },
+      {
+        "id": "R05",
+        "qualifiers": {
+          "not": {
+            "expected": 5,
+            "transcribed": 5
+          },
+          "no": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "may": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "might": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "could": {
+            "expected": 4,
+            "transcribed": 4
+          },
+          "would": {
+            "expected": 1,
+            "transcribed": 1
+          },
+          "all": {
+            "expected": 1,
+            "transcribed": 1
+          }
+        },
+        "differences": []
+      }
+    ]
+  },
+  "remaining_observations": [
+    "Some isolated-word ASR transcripts remain ambiguous, including scarce/scares, rural/BURL, succinct/six-inked and a duplicated challenge transcription. Input phonemes match the intended words. These are not treated as proven audio errors or as proof of correct pronunciation.",
+    "The stronger recognizer preserves all negations, modals and listed qualifiers in all five reading passages. It still differs on the initial a/the in R03 and R04 and seed/seeds in R03; source text and requested phonemes were not changed.",
+    "There was no human phonetics expert listening pass over every delivered clip. Neural speech and automated recognition can both err; no perfect-pronunciation guarantee is made."
+  ],
+  "frozen_source_sha256": {
+    "vocabulary.json": "75a13d9715715fd301c17ebf46818cf04d724cc70240bb8a0516fe109a2a6bf6",
+    "supplemental_audio_targets_v2.json": "3fbcc9a7cff1a48a91f118046ec01df07c07f34ef30567915d2485945172d30d",
+    "additional_audio_targets_v2.json": "323f1831995f232e56fe731f365fd7edbe28d645154851246464282fa25b2f60",
+    "reading_audio_targets_v2.json": "391f9d2bf242573b4f849b16c215f9d43600972d1326d20d50a2ce9d63d1b239"
+  },
+  "evidence_files": [
+    "acoustic_qa_results.json",
+    "asr_qa_results.json",
+    "final_repair_asr.json",
+    "reading_asr_records/",
+    "prosody_overrides.json",
+    "jobs.json",
+    "records/"
+  ]
+}

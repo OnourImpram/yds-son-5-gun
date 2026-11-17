@@ -1,0 +1,1378 @@
+[
+  {
+    "term": "however",
+    "pattern": "however",
+    "all_count": 28,
+    "all_docs": 8,
+    "recent_count": 11,
+    "recent_docs": 6,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 6
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 11
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "although",
+    "pattern": "although",
+    "all_count": 39,
+    "all_docs": 9,
+    "recent_count": 14,
+    "recent_docs": 7,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 14
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 11
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "term": "while",
+    "pattern": "while",
+    "all_count": 38,
+    "all_docs": 10,
+    "recent_count": 12,
+    "recent_docs": 8,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 13
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 13
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "even though",
+    "pattern": "even though",
+    "all_count": 10,
+    "all_docs": 3,
+    "recent_count": 1,
+    "recent_docs": 1,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 4
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 5
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "whereas",
+    "pattern": "whereas",
+    "all_count": 8,
+    "all_docs": 2,
+    "recent_count": 0,
+    "recent_docs": 0,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 7
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "despite",
+    "pattern": "despite",
+    "all_count": 15,
+    "all_docs": 6,
+    "recent_count": 5,
+    "recent_docs": 4,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 5
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 5
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "rather than",
+    "pattern": "rather than",
+    "all_count": 8,
+    "all_docs": 6,
+    "recent_count": 4,
+    "recent_docs": 4,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "as a result",
+    "pattern": "as a result",
+    "all_count": 19,
+    "all_docs": 9,
+    "recent_count": 10,
+    "recent_docs": 7,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 1
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 8
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "term": "because",
+    "pattern": "because",
+    "all_count": 68,
+    "all_docs": 12,
+    "recent_count": 29,
+    "recent_docs": 10,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 20
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 19
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 6
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 4
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "since",
+    "pattern": "since",
+    "all_count": 20,
+    "all_docs": 7,
+    "recent_count": 7,
+    "recent_docs": 5,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 7
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 6
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "research family",
+    "pattern": "research(?:er|ers)?",
+    "all_count": 34,
+    "all_docs": 9,
+    "recent_count": 19,
+    "recent_docs": 7,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 6
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 9
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 5
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 7
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "study family",
+    "pattern": "stud(?:y|ies|ied)",
+    "all_count": 44,
+    "all_docs": 10,
+    "recent_count": 9,
+    "recent_docs": 8,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 16
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 19
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "evidence",
+    "pattern": "evidence",
+    "all_count": 19,
+    "all_docs": 3,
+    "recent_count": 1,
+    "recent_docs": 1,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 11
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 7
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "suggest family",
+    "pattern": "suggest(?:s|ed|ing)?",
+    "all_count": 15,
+    "all_docs": 6,
+    "recent_count": 4,
+    "recent_docs": 4,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 7
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 4
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "develop family",
+    "pattern": "develop(?:s|ed|ing|ment|ments)?",
+    "all_count": 40,
+    "all_docs": 10,
+    "recent_count": 21,
+    "recent_docs": 8,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 12
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 7
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 4
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 6
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "increase family",
+    "pattern": "increas(?:e|es|ed|ing)",
+    "all_count": 41,
+    "all_docs": 8,
+    "recent_count": 19,
+    "recent_docs": 6,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 10
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 12
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 4
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 4
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 6
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "reduce family",
+    "pattern": "reduc(?:e|es|ed|ing|tion|tions)",
+    "all_count": 8,
+    "all_docs": 4,
+    "recent_count": 3,
+    "recent_docs": 3,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 5
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "benefit family",
+    "pattern": "benefit(?:s|ed|ing)?|beneficial",
+    "all_count": 17,
+    "all_docs": 4,
+    "recent_count": 4,
+    "recent_docs": 2,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 9
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 4
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "significant family",
+    "pattern": "significant(?:ly)?",
+    "all_count": 14,
+    "all_docs": 5,
+    "recent_count": 3,
+    "recent_docs": 3,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 9
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "environment family",
+    "pattern": "environment(?:s|al|ally)?",
+    "all_count": 22,
+    "all_docs": 8,
+    "recent_count": 12,
+    "recent_docs": 6,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 4
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 6
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 5
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "cause family",
+    "pattern": "caus(?:e|es|ed|ing)",
+    "all_count": 29,
+    "all_docs": 9,
+    "recent_count": 10,
+    "recent_docs": 7,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 17
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "effect family",
+    "pattern": "effect(?:s|ive|ively|iveness)?",
+    "all_count": 26,
+    "all_docs": 8,
+    "recent_count": 7,
+    "recent_docs": 6,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 4
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 15
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "require family",
+    "pattern": "requir(?:e|es|ed|ing|ement|ements)",
+    "all_count": 14,
+    "all_docs": 6,
+    "recent_count": 9,
+    "recent_docs": 4,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 1
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 4
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "term": "provide family",
+    "pattern": "provid(?:e|es|ed|ing)",
+    "all_count": 19,
+    "all_docs": 6,
+    "recent_count": 8,
+    "recent_docs": 4,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 9
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "term": "account for",
+    "pattern": "account(?:s|ed|ing)? for",
+    "all_count": 1,
+    "all_docs": 1,
+    "recent_count": 0,
+    "recent_docs": 0,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "carry out",
+    "pattern": "carr(?:y|ies|ied|ying) out",
+    "all_count": 2,
+    "all_docs": 2,
+    "recent_count": 1,
+    "recent_docs": 1,
+    "hits": [
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "lead to",
+    "pattern": "lead(?:s|ing)? to|led to",
+    "all_count": 30,
+    "all_docs": 9,
+    "recent_count": 15,
+    "recent_docs": 7,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 4
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 11
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 4
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "contribute to",
+    "pattern": "contribut(?:e|es|ed|ing) to",
+    "all_count": 8,
+    "all_docs": 5,
+    "recent_count": 5,
+    "recent_docs": 3,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 1
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "hinder family",
+    "pattern": "hinder(?:s|ed|ing)?",
+    "all_count": 5,
+    "all_docs": 3,
+    "recent_count": 2,
+    "recent_docs": 2,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 3
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "substantial family",
+    "pattern": "substantial(?:ly)?",
+    "all_count": 7,
+    "all_docs": 5,
+    "recent_count": 4,
+    "recent_docs": 3,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "may",
+    "pattern": "may",
+    "all_count": 50,
+    "all_docs": 9,
+    "recent_count": 20,
+    "recent_docs": 7,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 15
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 15
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 3
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 6
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "term": "could",
+    "pattern": "could",
+    "all_count": 33,
+    "all_docs": 7,
+    "recent_count": 15,
+    "recent_docs": 5,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 9
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 9
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 7
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "term": "can",
+    "pattern": "can",
+    "all_count": 147,
+    "all_docs": 12,
+    "recent_count": 58,
+    "recent_docs": 10,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 44
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 45
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 4
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 10
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 6
+      },
+      {
+        "file": "2023_2_8_Soru.pdf",
+        "count": 5
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 12
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 6
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 4
+      },
+      {
+        "file": "2025_EN_8_Soru.pdf",
+        "count": 7
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "term": "must",
+    "pattern": "must",
+    "all_count": 13,
+    "all_docs": 6,
+    "recent_count": 4,
+    "recent_docs": 4,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 4
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 5
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "in terms of",
+    "pattern": "in terms of",
+    "all_count": 5,
+    "all_docs": 4,
+    "recent_count": 2,
+    "recent_docs": 2,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 1
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2022_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "given that",
+    "pattern": "given that",
+    "all_count": 9,
+    "all_docs": 6,
+    "recent_count": 4,
+    "recent_docs": 4,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 3
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_2_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "unless",
+    "pattern": "unless",
+    "all_count": 13,
+    "all_docs": 7,
+    "recent_count": 6,
+    "recent_docs": 5,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 5
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 2
+      },
+      {
+        "file": "2022_1_8_Soru.pdf",
+        "count": 2
+      },
+      {
+        "file": "2023_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "term": "so that",
+    "pattern": "so that",
+    "all_count": 5,
+    "all_docs": 5,
+    "recent_count": 3,
+    "recent_docs": 3,
+    "hits": [
+      {
+        "file": "2021_1_Tam.pdf",
+        "count": 1
+      },
+      {
+        "file": "2021_2_Tam.pdf",
+        "count": 1
+      },
+      {
+        "file": "2024_2_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2025_1_8_Soru.pdf",
+        "count": 1
+      },
+      {
+        "file": "2026_1_8_Soru.pdf",
+        "count": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+/* Keep controls accessible without covering the study area between recordings. */
+.yds-app,.yds-legacy-reading {padding-bottom:32px}
+body:has(.yds-app[data-audio-active="true"]) .yds-app:not([data-view="book"]),
+body:has(.yds-app[data-audio-active="true"]) .yds-legacy-reading {padding-bottom:var(--yds-dock-space,180px)}
+.yds-app:not([data-audio-active="true"]) .yds-audio-dock {display:none}
+.yds-app .yds-audio-dock {bottom:max(10px,env(safe-area-inset-bottom));grid-template-columns:minmax(0,1fr) minmax(165px,.8fr) auto}
+.yds-app .yds-dock-tools {grid-column:auto}
+.yds-app[data-theme="dark"] .yds-audio-dock {background:#233945;color:#edf3ef}
+.yds-app .yds-audio-dock #yds-audio-element {min-width:0}
+.yds-app .yds-audio-dock audio {display:block}
+.yds-app .yds-skip {position:fixed;z-index:100;left:14px;top:10px;transform:translateY(-150%);color:var(--yds-ink);background:var(--yds-card);padding:10px;border-radius:6px}
+.yds-app .yds-skip:focus-visible {transform:none;outline:3px solid var(--yds-gold)}
+.yds-app .yds-book-back {position:fixed;right:16px;bottom:max(10px,env(safe-area-inset-bottom));z-index:81;box-shadow:0 2px 8px #102b3540}
+.yds-app[data-audio-active="true"] .yds-book-back {display:none}
+.yds-app .yds-toast {bottom:72px}
+body:has(.yds-app[data-audio-active="true"]) .yds-app .yds-toast {bottom:var(--yds-dock-space,180px)}
+.yds-app .yds-study-guide {margin:8px 0 12px}
+.yds-app .yds-study-guide summary {cursor:pointer;width:fit-content;font-size:.86em;color:var(--yds-teal);padding:5px 0}
+.yds-app .yds-study-instructions {white-space:pre-line;max-width:76ch;margin:6px 0}
+.yds-app .yds-study-guide:not([open]) .yds-study-instructions {display:none}
+.yds-app .yds-study-toolbar select {max-width:100%}
+.yds-app .yds-study-panel {max-width:850px}
+.yds-app #yds-study-item,.yds-app #yds-study-feedback {scroll-margin-top:95px}
+.yds-app .yds-study-prompt {overflow-wrap:anywhere}
+.yds-app .yds-study-options {border:0;padding:0;margin:16px 0;min-width:0}
+.yds-app .yds-study-options legend {font-weight:700;margin:0 0 8px}
+.yds-app .yds-study-option {display:flex;align-items:center;gap:12px;min-height:44px;padding:9px 12px;border:1px solid var(--yds-line);border-radius:9px;margin-bottom:8px;cursor:pointer;overflow-wrap:anywhere}
+.yds-app .yds-study-option:has(input:checked) {border-color:var(--yds-teal);background:var(--yds-pale)}
+.yds-app .yds-study-option:has(input:disabled) {cursor:default}
+.yds-app .yds-study-option input {flex:none}
+.yds-app .yds-study-feedback {padding:12px 16px;border-left:4px solid var(--yds-teal);background:var(--yds-pale);margin:16px 0;white-space:pre-line}
+.yds-app .yds-study-feedback :first-child {margin-top:0}
+.yds-app .yds-study-feedback :last-child {margin-bottom:0}
+#legacy-book .yds-legacy-zoom {display:block;max-width:100%;padding:0;margin:0;border:0;background:none;cursor:zoom-in;text-align:left}
+#legacy-book .yds-legacy-zoom:focus-visible {outline:3px solid #a66311;outline-offset:3px}
+#legacy-book h2[id],#legacy-book h3[id],#legacy-book section[id] {scroll-margin-top:84px}
+@media(max-width:980px) {
+  .yds-app .yds-audio-dock {grid-template-columns:minmax(0,1fr) minmax(165px,1fr)}
+  .yds-app .yds-dock-tools {grid-column:1/-1}
+}
+@media(max-width:640px) {
+  .yds-app .yds-nav {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2px}
+  .yds-app .yds-nav button {min-height:44px;text-align:left;white-space:normal;padding:.55em .65em;overflow-wrap:anywhere}
+  .yds-app .yds-audio-dock {grid-template-columns:minmax(0,1fr);max-height:55dvh}
+  .yds-app .yds-dock-tools {grid-column:auto}
+  .yds-app .yds-dock-tools button,.yds-app .yds-dock-tools select {min-height:44px}
+  .yds-app #yds-study-item,.yds-app #yds-study-feedback {scroll-margin-top:20px}
+  #legacy-book h2[id],#legacy-book h3[id],#legacy-book section[id] {scroll-margin-top:22px}
+}
+@media(prefers-reduced-motion:reduce) {html,#legacy-book {scroll-behavior:auto}}
+@media print {
+  .yds-app .yds-book-back,.yds-app .yds-skip {display:none!important}
+  .yds-app,.yds-legacy-reading {padding-bottom:0!important}
+}
+
+.yds-app .yds-study-reason {width:100%;white-space:pre-wrap;overflow-wrap:anywhere;margin-block:0 14px}
+@media screen and (max-width:700px){
+  #legacy-book nav [data-reading-action="save"]{position:fixed;left:12px;bottom:max(10px,env(safe-area-inset-bottom));z-index:82;box-shadow:0 2px 8px #102b3540}
+  body:has(.yds-app[data-audio-active="true"]) #legacy-book nav [data-reading-action="save"]{bottom:var(--yds-dock-space,180px)}
+}

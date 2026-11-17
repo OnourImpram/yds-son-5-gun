@@ -1,0 +1,74 @@
+[
+  {
+    "file": "2021_1_Tam.pdf",
+    "pages": 28,
+    "sha256": "50fc021bdf80e6645329c103a27e38af5862f76f395a036d53504d4bf2dcd0bf",
+    "characters": 116756
+  },
+  {
+    "file": "2021_2_Tam.pdf",
+    "pages": 28,
+    "sha256": "cf565fb25c7601c5b920e95452c4aa197ec9caee0044d47d39c87c05260b9f1a",
+    "characters": 93463
+  },
+  {
+    "file": "2022_1_8_Soru.pdf",
+    "pages": 28,
+    "sha256": "215e3d18bb5724a5a3bb41c6fdda04ec4b8e8a7116cffddb453c2d3420031750",
+    "characters": 37947
+  },
+  {
+    "file": "2022_2_8_Soru.pdf",
+    "pages": 27,
+    "sha256": "ef980f46f139ce0ae6cefb16d8a50bc39f02545638f345651dc788ac838ab206",
+    "characters": 24601
+  },
+  {
+    "file": "2023_1_8_Soru.pdf",
+    "pages": 27,
+    "sha256": "e1e932070e79e46093ad37a0e16fc2e4b4750d08ab7c0b092b4f82b1aad770c6",
+    "characters": 26655
+  },
+  {
+    "file": "2023_2_8_Soru.pdf",
+    "pages": 29,
+    "sha256": "6c9a4fce0fd3b0d688ecae564d46ad920dd002f22638e8363348635a40e37c76",
+    "characters": 21698
+  },
+  {
+    "file": "2024_1_8_Soru.pdf",
+    "pages": 28,
+    "sha256": "79f64fc6f475c31454218e7f2f99ad9472b201ead6cccad9788fa867654f4af5",
+    "characters": 21431
+  },
+  {
+    "file": "2024_2_8_Soru.pdf",
+    "pages": 27,
+    "sha256": "e0042c637e073243cf8973499093bb9deb687beae0ce9b26b7df29a046b5780d",
+    "characters": 40518
+  },
+  {
+    "file": "2025_1_8_Soru.pdf",
+    "pages": 30,
+    "sha256": "d4fac58aa6d35a70a9e6fe181093a8c3f8f7eb96611c1b8fc932442decb13431",
+    "characters": 47188
+  },
+  {
+    "file": "2025_2_8_Soru.pdf",
+    "pages": 30,
+    "sha256": "ee40591ed6ede9ab559f15c10d57375c7276e52e6de00d92bad20684400b86ee",
+    "characters": 22787
+  },
+  {
+    "file": "2025_EN_8_Soru.pdf",
+    "pages": 29,
+    "sha256": "e6c8036d1cf8cc68f330244131d4b9381c7501a603dcb936952e0f2c28827281",
+    "characters": 25777
+  },
+  {
+    "file": "2026_1_8_Soru.pdf",
+    "pages": 28,
+    "sha256": "fd815d7a4941a94110038d895a40cb74728acc3b769b5f8c34d3f2bb6a3ae057",
+    "characters": 21010
+  }
+]

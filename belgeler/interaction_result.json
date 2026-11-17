@@ -1,0 +1,13 @@
+{
+  "mode": "jsdom runtime with exact release source, compact media placeholders and stubbed native media events",
+  "checks": [
+    "boot and all tabs",
+    "keyboard navigation and focus",
+    "visual dialog cancel and focus return",
+    "offline audio mapping and dock interactions",
+    "favorite and book navigation",
+    "transfer DOM events, hidden explanation, reason, review, retry and first answer",
+    "80 exam controls, answer, flag, pause, jump, submission, read-only choices and local data",
+    "zero jsdom errors"
+  ]
+}

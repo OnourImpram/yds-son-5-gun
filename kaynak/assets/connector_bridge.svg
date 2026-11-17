@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="509.27559055118115" height="158.6" preserveAspectRatio="xMinYMin meet" viewBox="0 0 509 158" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="509.27559055118115" height="158.6"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-158)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="143.6" style="font-family: BodyBold; font-size: 11.5px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,287) scale(1,-1)">Boşluğun iki kıyısını birleştir</text>
+			<rect x="0.0" y="94.44999999999999" width="169.75853018372706" height="30.150000000000006" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(13%,48%,46%); fill-rule: evenodd;"/>
+			<text x="9.0" y="110.6" style="font-family: BodyBold; font-size: 9.0px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,221) scale(1,-1)">Önceki cümle</text>
+			<rect x="169.75853018372706" y="94.44999999999999" width="169.75853018372706" height="30.150000000000006" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(13%,48%,46%); fill-rule: evenodd;"/>
+			<text x="178.75853018372706" y="110.6" style="font-family: BodyBold; font-size: 9.0px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,221) scale(1,-1)">Boşluğun işi</text>
+			<rect x="339.5170603674541" y="94.44999999999999" width="169.75853018372703" height="30.150000000000006" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(13%,48%,46%); fill-rule: evenodd;"/>
+			<text x="348.5170603674541" y="110.6" style="font-family: BodyBold; font-size: 9.0px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,221) scale(1,-1)">Sonraki cümle</text>
+			<rect x="0.0" y="64.29999999999998" width="169.75853018372706" height="30.150000000000006" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="9.0" y="80.44999999999999" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,160) scale(1,-1)">bir güçlük</text>
+			<rect x="169.75853018372706" y="64.29999999999998" width="169.75853018372706" height="30.150000000000006" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="178.75853018372706" y="80.44999999999999" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,160) scale(1,-1)">güçlüğü somutlaştır</text>
+			<rect x="339.5170603674541" y="64.29999999999998" width="169.75853018372703" height="30.150000000000006" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="348.5170603674541" y="80.44999999999999" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,160) scale(1,-1)">bu güçlüğe rağmen yarar</text>
+			<rect x="0.0" y="34.149999999999984" width="169.75853018372706" height="30.15" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="9.0" y="50.29999999999998" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,100) scale(1,-1)">bir iddia</text>
+			<rect x="169.75853018372706" y="34.149999999999984" width="169.75853018372706" height="30.15" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="178.75853018372706" y="50.29999999999998" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,100) scale(1,-1)">kanıt veya örnek</text>
+			<rect x="339.5170603674541" y="34.149999999999984" width="169.75853018372703" height="30.15" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="348.5170603674541" y="50.29999999999998" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,100) scale(1,-1)">dolayısıyla sonuç</text>
+			<rect x="0.0" y="3.999999999999986" width="169.75853018372706" height="30.15" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="9.0" y="20.149999999999984" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,40) scale(1,-1)">bir olay</text>
+			<rect x="169.75853018372706" y="3.999999999999986" width="169.75853018372706" height="30.15" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="178.75853018372706" y="20.149999999999984" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,40) scale(1,-1)">açıklama veya bağ</text>
+			<rect x="339.5170603674541" y="3.999999999999986" width="169.75853018372703" height="30.15" style="stroke: rgb(80%,84%,86%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="348.5170603674541" y="20.149999999999984" style="font-family: Body; font-size: 9.0px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,40) scale(1,-1)">this / such / these ile gönderim</text>
+		</g>
+	</g>
+</svg>

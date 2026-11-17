@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="509.27559055118115" height="154" preserveAspectRatio="xMinYMin meet" viewBox="0 0 509 154" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="509.27559055118115" height="154"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-154)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="139.0" style="font-family: BodyBold; font-size: 11.5px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,278) scale(1,-1)">Geçmiş hakkında çıkarım ve edilgenlik</text>
+			<rect x="0.0" y="67" width="118.31889763779529" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="14.463198818897645" y="99.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,198) scale(1,-1)">may / might / must /</text>
+			<text x="43.99969881889764" y="87.255" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,174) scale(1,-1)">cannot</text>
+			<rect x="130.3188976377953" y="67" width="118.31889763779529" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="178.94699645669291" y="99.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,198) scale(1,-1)">have</text>
+			<rect x="260.6377952755906" y="67" width="118.31889763779526" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="309.04404409448824" y="99.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,198) scale(1,-1)">been</text>
+			<rect x="390.95669291338584" y="67" width="118.31889763779532" height="49" rx="6" ry="6" style="stroke: rgb(13%,48%,46%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,95%); fill-rule: evenodd;"/>
+			<text x="439.7718417322835" y="99.0" style="font-family: BodyBold; font-size: 8.7px;fill: rgb(8%,20%,29%); stroke:none;" transform="translate(0,198) scale(1,-1)">used</text>
+			<path d="M 118.318898,91.5 L 127.318898,91.5 Z" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="127.3189 91.5, 123.3189 94.5, 123.3189 88.5" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,54%,17%); fill-rule: evenodd;"/>
+			<path d="M 248.637795,91.5 L 257.637795,91.5 Z" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="257.6378 91.5, 253.6378 94.5, 253.6378 88.5" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,54%,17%); fill-rule: evenodd;"/>
+			<path d="M 378.956693,91.5 L 387.956693,91.5 Z" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="387.9567 91.5, 383.9567 94.5, 383.9567 88.5" style="stroke: rgb(78%,54%,17%); stroke-linecap: butt; stroke-width: 1; fill: rgb(78%,54%,17%); fill-rule: evenodd;"/>
+			<text x="6" y="50.0" style="font-family: Body; font-size: 8.5px;fill: rgb(32%,38%,41%); stroke:none;" transform="translate(0,100) scale(1,-1)">• Modal: iddianın kuvveti</text>
+			<text x="6" y="34.525" style="font-family: Body; font-size: 8.5px;fill: rgb(32%,38%,41%); stroke:none;" transform="translate(0,69) scale(1,-1)">• have + V3: geçmişe bakış</text>
+			<text x="6" y="19.049999999999997" style="font-family: Body; font-size: 8.5px;fill: rgb(32%,38%,41%); stroke:none;" transform="translate(0,38) scale(1,-1)">• been + V3: edilgen rol</text>
+		</g>
+	</g>
+</svg>
