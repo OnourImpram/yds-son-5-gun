@@ -4,6 +4,10 @@
 
 **[Etkileşimli kitabı aç](https://onourimpram.github.io/yds-son-5-gun/)** · **[347 sayfalık PDF](kitap/YDS_Son_5_Gun_Hazirlik_Kitabi.pdf)**
 
+## 22 Kasım 2026 sınavından sonra
+
+2026-YDS/2 İngilizce kitapçığının yayımlanan sekiz sorusuna karşılık sekiz özgün alıştırma hazırlandı. Resmî soru numaraları, cevap anahtarı ve her birinde hangi ayrımın sınandığı kaynak kaydında bulunur. [Alıştırmaları çöz](https://onourimpram.github.io/yds-son-5-gun/2026-yds-2.html) · [Çalışma ekini PDF olarak indir](kitap/YDS_2026_2_Calisma_Eki.pdf) · [Resmî sorulara git](belgeler/2026-YDS-2.md)
+
 ## Çalışmaya başlamak
 
 Başlangıç ekranından gününü seç. Bir kelime kartında telaffuzu ve örnek cümleyi dinleyebilir, ardından hedefi görmeden yazabilirsin. Tam kitapta bıraktığın karta ayraç koyabilirsin. Her günün aktarım atölyesinde dört çözümlü örnek ve aynı ayrımları yeni bağlamlarda kullanan dört soru bulunur.

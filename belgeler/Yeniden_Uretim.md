@@ -26,7 +26,8 @@ python build_site.py
 
 - PDF, `output/YDS_Son_5_Gun_Hazirlik_Kitabi.pdf` yoluna yazılır.
 - `--html-only` etkileşimli uygulamanın kullanacağı ders gövdesini üretir. Yayımlanacak HTML, bu komutu izleyen `build_interactive_v4.py` komutunun çıktısıdır.
-- `build_site.py`, harici medya HTML’sine PDF bağlantısını ekleyerek site kökündeki `index.html` dosyasını üretir. Bağlantı, `kitap/` altındaki dağıtım PDF’sini kullanır. PDF güncellenecekse yeni çıktıyı aynı adla `kitap/` dizinine kopyaladıktan sonra siteyi yeniden üretin. Tarayıcı bu dosyanın yanındaki `audio/` ve `images/` dizinlerini kullanır. Dosyaların SHA-256 değerleri derleme sırasında manifestlerle karşılaştırılır. Yerel önizleme için site kökünden `python -m http.server 8000` çalıştırıp `http://localhost:8000/` adresini açın.
+- `build_site.py`, harici medya HTML’sine ana kitap ve çalışma eki bağlantılarını ekleyerek site kökündeki `index.html` dosyasını üretir. Ana kitap bağlantısı, `kitap/` altındaki dağıtım PDF’sini kullanır. Ana kitap PDF’si güncellenecekse yeni çıktıyı aynı adla `kitap/` dizinine kopyaladıktan sonra siteyi yeniden üretin. Tarayıcı bu dosyanın yanındaki `audio/` ve `images/` dizinlerini kullanır. Dosyaların SHA-256 değerleri derleme sırasında manifestlerle karşılaştırılır. Yerel önizleme için site kökünden `python -m http.server 8000` çalıştırıp `http://localhost:8000/` adresini açın.
+- 22 Kasım 2026 İngilizce YDS/2 çalışma eki, `content/yds2_2026.json` içindeki ortak kaynaktan üretilir. `build_site.py` hem `2026-yds-2.html` sayfasını hem de `kitap/YDS_2026_2_Calisma_Eki.pdf` dosyasını üretir. Yalnızca bu iki çıktıyı güncellemek için `python build_yds2.py` çalıştırın.
 
 Tek dosyalı çevrimdışı sürümü üretmek için aşağıdaki komutu çalıştırın. Çıktı `output/YDS_Son_5_Gun_Sesli_Etkilesimli_Kitap.html` dosyasıdır. Ses ve görseller bu dosyanın içine gömülür.
 

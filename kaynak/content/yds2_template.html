@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>@@TITLE@@ · YDS Son 5 Gün</title>
+<style>
+:root {
+  color-scheme: light;
+  --paper: #f7f5ee;
+  --ink: #16334b;
+  --muted: #52616a;
+  --teal: #17615b;
+  --pale: #eaf3ed;
+  --line: #cbd7d3;
+  --focus: #ab5c21;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 1rem/1.6 system-ui, sans-serif; }
+a { color: var(--teal); text-underline-offset: .2em; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+[hidden] { display: none !important; }
+.wrap { max-width: 49rem; margin: auto; padding-inline: clamp(1rem, 4vw, 2.5rem); }
+header { border-top: .4rem solid var(--teal); padding: clamp(1rem, 4vw, 2.5rem) 0 1.5rem; }
+nav { margin-bottom: clamp(1.4rem, 5vw, 3rem); }
+h1, h2, h3 { line-height: 1.2; overflow-wrap: anywhere; }
+h1 { font-size: clamp(2.15rem, 7vw, 3.6rem); letter-spacing: -.036em; margin: 0 0 .8rem; }
+header p { margin: .75rem 0; }
+header .meta { margin-top: 1.15rem; }
+.actions { display: flex; flex-wrap: wrap; gap: .65rem 1.2rem; align-items: center; margin-top: 1.25rem; }
+article {
+  background: #fff; border: 1px solid var(--line); border-radius: 1.05rem;
+  padding: clamp(1rem, 4vw, 2rem); margin-bottom: 1rem;
+}
+h2 { margin: 0 0 .35rem; font-size: clamp(1.22rem, 4vw, 1.65rem); }
+h3 { margin: 0 0 .55rem; }
+.meta { color: var(--muted); font-size: .875rem; margin: 0; }
+.skill { color: var(--teal); font-weight: 650; margin: .4rem 0 1rem; }
+fieldset { border: 0; min-width: 0; padding: 0; margin: 0; }
+legend { padding: 0; width: 100%; font-weight: 650; margin-bottom: .8rem; }
+.passage { display: block; margin-top: .55rem; font-weight: 500; }
+.options { display: grid; gap: .42rem; }
+label {
+  display: flex; align-items: flex-start; gap: .6rem; padding: .6rem .7rem;
+  border: 1px solid var(--line); border-radius: .5rem; cursor: pointer;
+}
+label:has(input:checked) { background: var(--pale); border-color: var(--teal); }
+input[type=radio] { flex: none; accent-color: var(--teal); width: 1em; height: 1em; margin: .29em 0 0; }
+.tip { margin: .85rem 0; }
+summary { color: var(--teal); cursor: pointer; padding-block: .4rem; }
+.tip p { margin: .25rem 0 .65rem; }
+button { font: inherit; cursor: pointer; }
+.button, .check {
+  display: inline-block; background: var(--teal); border: 1px solid var(--teal);
+  border-radius: .5rem; padding: .55rem .9rem; color: white;
+  font-weight: 650; text-decoration: none;
+}
+.print { background: transparent; border: 0; padding: .55rem 0; color: var(--teal); text-decoration: underline; }
+.feedback:empty { margin: 0; }
+.feedback { font-weight: 650; margin: .85rem 0 .45rem; }
+.solution { margin-top: .8rem; padding: 1rem; border-radius: .5rem; background: var(--pale); }
+.solution p { margin: .4rem 0; }
+.solution ul { padding-left: 1.25rem; }
+footer { padding: .6rem 0 2rem; }
+@media print {
+  :root { --paper: white; --ink: black; --teal: black; --muted: black; }
+  body { font-size: 10pt; }
+  header { padding: 0; border: 0; margin-bottom: 1rem; }
+  h1 { font-size: 23pt; }
+  .wrap { max-width: none; padding: 0; }
+  article { break-inside: avoid; border: 0; padding: 0; margin: 0 0 1rem; }
+  nav, .actions, button, .tip, .feedback, .solution, footer, input[type=radio] { display: none; }
+  a { text-decoration: none; }
+  label, label:has(input:checked) { border: 0; padding: 0 0 0 .7rem; background: none; }
+  .options { gap: 0; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <nav aria-label="Kitap"><a href="./index.html">← YDS Son 5 Gün</a></nav>
+    <h1>@@TITLE@@</h1>
+    <p>@@INTRO@@</p>
+    <p class="meta"><a href="@@SOURCE_URL@@">@@SOURCE_TITLE@@</a> · @@SOURCE_DATE@@</p>
+    <div class="actions">
+      <a class="button" href="./kitap/@@PDF_NAME@@" download>Çözümlü PDF’yi indir</a>
+      <button class="print" type="button" hidden>Yalnızca soruları yazdır</button>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <noscript><p>Etkileşimli kontrol için JavaScript’i etkinleştirebilir ya da çözümlere PDF’den ulaşabilirsin.</p></noscript>
+@@ITEMS@@
+</main>
+<footer class="wrap"><a href="./index.html">Ana kitaba dön</a></footer>
+<script>
+const printButton = document.querySelector(".print");
+printButton.hidden = false;
+printButton.addEventListener("click", () => window.print());
+
+document.querySelectorAll("form[data-answer]").forEach((form) => {
+  const feedback = form.querySelector(".feedback");
+  const solution = form.querySelector(".solution");
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const selected = form.querySelector("input:checked");
+    if (!selected) {
+      feedback.textContent = "Önce bir seçenek işaretle.";
+      form.querySelector("input").focus();
+      return;
+    }
+    const answer = form.dataset.answer;
+    feedback.textContent = selected.value === answer
+      ? `Doğru yanıt · ${answer}`
+      : `İşaretlediğin yanıt · ${selected.value}. Doğru yanıt · ${answer}.`;
+    solution.hidden = false;
+  });
+
+  form.addEventListener("change", () => {
+    feedback.textContent = "";
+    solution.hidden = true;
+  });
+});
+</script>
+</body>
+</html>

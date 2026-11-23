@@ -70,5 +70,30 @@
     "pages": 28,
     "sha256": "fd815d7a4941a94110038d895a40cb74728acc3b769b5f8c34d3f2bb6a3ae057",
     "characters": 21010
+  },
+  {
+    "file": "ngilizce-testi-ve-cevap-anahtari-10-o0p9zw-22132045.pdf",
+    "pages": 31,
+    "sha256": "0f04982909afab28c7ca74860ee9f6e9897ab496f52e22c19eb62b05c9c54267",
+    "characters": 17025,
+    "session": "2026-YDS/2",
+    "language": "İngilizce",
+    "exam_date": "2026-11-22",
+    "url": "https://dokuman.osym.gov.tr/web/2026/11/ngilizce-testi-ve-cevap-anahtari-10-o0p9zw-22132045.pdf",
+    "announcement_url": "https://osym.gov.tr/2026-yds2-temel-soru-kitapciklari-ve-cevap-anahtarlari-yayimlandi",
+    "candidate_view_url": "https://ais.osym.gov.tr/YDS/2026/2/TemelSoruKitapcigi",
+    "candidate_view_until": "2026-12-02T23:59:00+03:00",
+    "exam_questions": 80,
+    "public_question_numbers": [
+      4,
+      12,
+      34,
+      38,
+      67,
+      68,
+      75,
+      80
+    ],
+    "included_in_original_corpus_stats": false
   }
 ]

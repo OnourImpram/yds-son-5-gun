@@ -8,6 +8,7 @@
 | 2 · Sesli öğrenme | Dikte, anlamdan hatırlama, cümle tamamlama, ince ayrımlar, tekrar planı ve ses kütüphanesi eklendi. | 176 ana hedef için üçer görev ve 32 ayrım sorusu hazırlandı. Son ses arşivi, 1.226 girdide 1.537 MP3 içerir. |
 | 3 · HTML onarımı | Büyük CSS atlasları tekil görsellerle değiştirildi. Ses kütüphanesi ile görseller ilişkilendirildi. İpucu, klavye odağı, sınav süresi ve yedek birleştirme düzeltildi. | Öğretim metni önceki HTML ile karşılaştırıldı. Gömülü görsel ve seslerin bütünlüğü, DOM davranışı ve yedek birleştirme senaryoları denetlendi. Ayrıntılar [üçüncü sürüm kaydında](HTML_V3_Onarim_ve_Dogrulama.md). |
 | 4 · İçerik ve prova incelemesi | 23 çoktan seçmeli madde ve dört açık uçlu görev düzenlendi. Beş güne 20 çözümlü örnek ve 20 aktarım sorusu eklendi. Puanlamada önceki soru bankasının anahtarı korundu. PDF görselleri ve cevap formu, HTML'de günlük okuma girişi, ayraç ve oynatıcı yeniden işlendi. | Soru ve seçenek gerekçeleri, medya dosyaları, PDF düzeni ve DOM davranışı denetlendi. Ayrıntılar [dördüncü baskı kaydında](Dorduncu_Baski_Inceleme.md). |
+| 23 Kasım 2026 · Sınav sonrası ek | Sekiz özgün alıştırma web ve PDF için hazırlandı. | Sekiz resmî madde, numara ve anahtar üzerinden [22 Kasım sınav kaydına](2026-YDS-2.md) bağlandı. |
 
 ## Yöntem ve sınırlar
 

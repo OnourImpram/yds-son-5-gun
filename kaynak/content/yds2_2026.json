@@ -1,0 +1,211 @@
+{
+  "title": "2026-YDS/2 İngilizce Çalışma Eki",
+  "intro": "ÖSYM, 22 Kasım 2026’da uygulanan sınavın İngilizce kitapçığındaki 80 sorunun sekizini kamuya açtı. Bu ekte her açık soru için kitabın ilgili günü, sınavda ayırt edici olan beceri ve bu beceriyi yeni bir bağlamda çalıştıran beş seçenekli bir alıştırma yer alıyor. Önce alıştırmayı çöz ve kararını belirleyen sözcük, yapı veya cümleyi işaretle. Sonra çözümü okuyup en güçlü çeldiriciyi neden elediğini bir cümleyle yaz. ÖSYM’nin kitapçık anahtarı ile bu alıştırmaların anahtarı ayrı ayrı gösteriliyor. Sekiz açık madde, sınavın tamamındaki soru türlerinin dağılımını ya da güçlük düzeyini belirlemek için yeterli değildir.",
+  "source": {
+    "title": "ÖSYM 2026-YDS/2 İngilizce Testi ve Cevap Anahtarı (%10)",
+    "url": "https://dokuman.osym.gov.tr/web/2026/11/ngilizce-testi-ve-cevap-anahtari-10-o0p9zw-22132045.pdf",
+    "date": "2026-11-22"
+  },
+  "items": [
+    {
+      "number": 4,
+      "official_key": "B",
+      "page": 1,
+      "day": 3,
+      "type": "Sözcük tamamlama",
+      "skill": "Aynı sözcük türündeki seçenekleri bağlamsal karşıtlığa göre ayırma",
+      "tip": "Boşluğun sıklık, zaman, biçim ya da niyet eksenlerinden hangisini anlattığını ipucundan çıkar. Ardından cümleyi kendi sözcüklerinle özetle.",
+      "prompt": "Boşluğu bağlama en uygun zarfla tamamla.\n\nThe faulty lift stopped ---- throughout the morning, with stretches of normal operation between the interruptions and no predictable interval from one stop to the next.",
+      "options": [
+        "permanently",
+        "simultaneously",
+        "deliberately",
+        "sporadically",
+        "predictably"
+      ],
+      "answer": "D",
+      "explanation": "Sporadically, düzensiz aralıklarla anlamına gelir. Asansör aralarda normal çalışıyor ve bir sonraki duruşun ne zaman olacağı öngörülemiyor. İki ipucu birlikte sıklık ve düzen eksenini belirler.",
+      "distractors": {
+        "A": "Permanently kalıcılık bildirir. Asansör duruşların arasında çalışmaya devam eder.",
+        "B": "Simultaneously eşzamanlı olaylar gerektirir. Burada tek asansörde peş peşe yaşanan duruşlar var.",
+        "C": "Deliberately niyet bildirir. Metin arızalı bir asansörün düzensiz çalışmasını anlatır.",
+        "E": "Predictably duruşların öngörülebildiğini bildirir. Cümle, bir sonraki duruşa kadar geçecek sürenin belli olmadığını söyler."
+      }
+    },
+    {
+      "number": 12,
+      "official_key": "A",
+      "page": 3,
+      "day": 2,
+      "type": "Bağlayıcı tamamlama",
+      "skill": "Örtük olumsuz koşul ile doğrudan sonuç arasındaki farkı belirleme",
+      "tip": "İkinci cümlenin gerçekleşmesi için ilk cümlenin içindeki eylemin yapılması mı, yapılmaması mı gerekir? İlişkiyi bir if cümlesiyle sınayabilirsin.",
+      "prompt": "Boşluğa en uygun bağlayıcıyı seç.\n\nYou can keep your reservation by confirming it before noon. ----, the system will offer the seat to the next person on the waiting list.",
+      "options": [
+        "In the meantime",
+        "As a result",
+        "Otherwise",
+        "Even so",
+        "For example"
+      ],
+      "answer": "C",
+      "explanation": "Otherwise burada ‘if you do not confirm it before noon’ anlamını taşır. Yer, onay verildiğinde korunur ve onay verilmezse sıradaki kişiye sunulur.",
+      "distractors": {
+        "A": "In the meantime bekleme süresinde eşzamanlı bir olaya geçer. Sıradaki kişiye teklif için onay süresinin dolması gerekir.",
+        "B": "As a result ikinci olayı ilkinde anlatılan onayın sonucu yapar. Onay, yerin korunmasını sağlar.",
+        "D": "Even so onaya rağmen yerin başkasına sunulacağını düşündürür. Bu okuma ilk cümledeki güvenceyi bozar.",
+        "E": "For example ilk düşünceyi örneklemelidir. İkinci cümle, onay verilmediğindeki ayrı durumu anlatır."
+      }
+    },
+    {
+      "number": 34,
+      "official_key": "A",
+      "page": 7,
+      "day": 2,
+      "type": "Cümle tamamlama",
+      "skill": "Eşzamanlı karşıt eğilimleri neden-sonuç ve örnekleme ilişkilerinden ayırma",
+      "tip": "Seçeneğin başındaki bağlayıcıyı cümlenin geri kalanıyla birlikte test et. Bir ilişkinin mantıklı görünmesi, verilen öncülden çıktığı anlamına gelmez.",
+      "prompt": "İlk yargıyla anlam bakımından en tutarlı devamı seç.\n\nOver the past three years, more residents have applied for evening language courses, largely because the classes fit around full-time jobs; ----.",
+      "options": [
+        "therefore, instructors now need fewer hours to mark each placement test",
+        "for example, the course handbook includes separate lists of grammar and pronunciation topics",
+        "consequently, every learner has acquired the same level of proficiency",
+        "likewise, the desks in several classrooms were replaced last summer",
+        "at the same time, the number of evening sections has fallen because several instructors have left"
+      ],
+      "answer": "E",
+      "explanation": "İlk bölüm başvurulardaki artışı, ikinci bölüm aynı dönemde akşam şubelerindeki azalmayı anlatır. Her eğilimin kendi gerekçesi vardır. At the same time bu paralel zaman çizelgesini kurar ve artan talep ile azalan kapasite arasındaki gerilimi görünür kılar.",
+      "distractors": {
+        "A": "Başvuru sayısındaki artış, bir sınavı puanlamak için gereken sürenin kısaldığını göstermez.",
+        "B": "El kitabındaki konu başlıkları başvuru artışına ya da iş saatleriyle uyuma örnek oluşturmaz.",
+        "C": "Başvuru sayısından herkesin aynı yeterlik düzeyine ulaştığı sonucu çıkmaz.",
+        "D": "Sıra değişimi aynı kurumda geçse de başvuruya benzer bir eğilim sunmaz."
+      }
+    },
+    {
+      "number": 38,
+      "official_key": "D",
+      "page": 9,
+      "day": 4,
+      "type": "İngilizceden Türkçeye çeviri",
+      "skill": "Aktarma yapısını, edilgen zorunluluğu, örnek kapsamını ve amacı birlikte koruma",
+      "tip": "Önce kimin neyi bildirdiğini bul. Sonra zorunluluğun hangi eyleme, örneğin hangi gruba ve amacın hangi eyleme bağlandığını çiz.",
+      "prompt": "İngilizce cümleyi en doğru karşılayan Türkçe seçeneği seç.\n\nThe museum director stresses that fragile items, including wax cylinders, must be handled with gloves so that their surfaces can be examined without leaving marks.",
+      "options": [
+        "Müze müdürü, balmumu silindirler de dâhil olmak üzere hassas nesnelerin yüzeylerinin iz bırakılmadan incelenebilmesi için bu nesnelerin eldivenle tutulması gerektiğini vurguluyor.",
+        "Müze müdürü, hassas nesneler arasında yalnızca balmumu silindirlerin yüzeylerinin iz bırakılmadan incelenebilmesi için eldivenle tutulması gerektiğini vurguluyor.",
+        "Müze müdürü, balmumu silindirler de dâhil olmak üzere hassas nesnelerin eldivenle tutulabileceğini ve bu nesneler incelendikten sonra yüzeylerindeki izlerin giderilmesi gerektiğini vurguluyor.",
+        "Müze müdürü, balmumu silindirler de dâhil olmak üzere hassas nesnelerin yüzeyleri iz bırakılmadan incelendiği için bu nesnelerin eldivenle tutulması gerektiğini vurguluyor.",
+        "Müze müdürü, balmumu silindirler de dâhil olmak üzere hassas nesnelerin yüzeylerinin iz bırakılmadan incelenebilmesi için bu nesneleri kendisinin eldivenle tutması gerektiğini vurguluyor."
+      ],
+      "answer": "A",
+      "explanation": "Stresses that müdürün neyi vurguladığını gösterir. Must be handled zorunluluğu bildirirken tutma işini kimin yapacağını açık bırakır. Including, balmumu silindirleri hassas nesneler grubuna dâhil eder. So that ile başlayan amaç bölümündeki can be examined, incelemenin mümkün hâle gelmesini ve inceleyenin belirtilmemesini birlikte aktarır.",
+      "distractors": {
+        "B": "Yalnızca sözcüğü kapsamı daraltır. Zorunluluk hassas nesneler grubu için geçerlidir.",
+        "C": "Tutulabileceğini zorunluluğu olanağa indirger. İzlerin giderilmesi, inceleme sırasında iz bırakılmaması amacının yerine sonradan yapılacak bir eylem koyar.",
+        "D": "İncelendiği için ifadesi amacı bir nedene dönüştürür ve incelemenin gerçekleştiğini varsayar.",
+        "E": "Kendisinin ifadesi eldivenle tutma yükümlülüğünü özellikle müdüre yükler. Kaynak cümle eylemi kimin yapacağını belirtmez."
+      }
+    },
+    {
+      "number": 67,
+      "official_key": "C",
+      "page": 23,
+      "day": 5,
+      "type": "Diyalog tamamlama",
+      "skill": "Soruyu yanıtlayan ve bir sonraki konuşmacının çıkarımını gerekçelendiren ara sözü bulma",
+      "tip": "Önce son konuşmacının hangi yeni bilgiyi edinmiş olması gerektiğini yaz. Sonra her seçeneğin önceki soruyu da cevaplayıp cevaplamadığını kontrol et.",
+      "prompt": "Diyaloğu tamamlayan sözü seç.\n\nLena — The transit agency cut late-night bus services because so few people were using them.\nOmar — What happened after the cuts?\nLena — ----\nOmar — Then the decision itself made the low-ridership problem worse.",
+      "options": [
+        "The agency chose the routes by comparing passenger numbers across several months.",
+        "With longer waits between buses, some of the remaining riders switched to other ways of getting home.",
+        "The agency kept all the existing daytime routes and revised the weekend timetable.",
+        "Most people who used the late buses said that the fares were affordable.",
+        "Passenger numbers had already fallen before the cuts, when two large employers changed their shift hours."
+      ],
+      "answer": "B",
+      "explanation": "Daha seyrek hizmet, kalan yolcuların bir bölümünü başka ulaşım yollarına yöneltir. Böylece ilk karara gerekçe olan düşük yolcu sayısı karardan sonra daha da düşer. Bu bilgi hem zaman sorusuna hem de son çıkarıma dayanak sağlar.",
+      "distractors": {
+        "A": "Güzergâh kararının nasıl alındığını açıklar ve kararın sonrasıyla ilgili bilgi vermez.",
+        "C": "Sonraki bir düzenlemeyi belirtse de gece yolcusu sayısı üzerindeki etkiyi açıklamaz.",
+        "D": "Ücretlerin uygun bulunması, kesintilerin yolcu sayısını nasıl etkilediğini göstermez.",
+        "E": "Düşüşten söz eder, ancak bu düşüşü kesintilerden önceye yerleştirir ve başka bir nedene bağlar."
+      }
+    },
+    {
+      "number": 68,
+      "official_key": "C",
+      "page": 23,
+      "day": 4,
+      "type": "Anlamca en yakın cümle",
+      "skill": "Karşılıklı ilişkinin yönünü ve nicelik kapsamını eşdeğer anlatımda koruma",
+      "tip": "İki tarafı ayrı ayrı yaz ve her birinin verdiği ile aldığını eşleştir. Sonra some, only, all ve many gibi kapsam belirleyicilerini denetle.",
+      "prompt": "Verilen cümleyle anlamca en yakın seçeneği bul.\n\nIn several towns, local radio stations give theatre groups free airtime in exchange for tickets that the stations can offer as prizes.",
+      "options": [
+        "In several towns, theatre groups give local radio stations free airtime so that the stations will buy tickets for their listeners.",
+        "Across several towns, local stations give free airtime exclusively to theatre groups that supply prizes.",
+        "In most towns, theatre groups provide local radio stations with tickets for giveaways, and the stations offer the groups airtime without charge in return.",
+        "In a number of towns, theatre groups receive broadcast time at no cost from local stations and supply the stations with tickets to give away in return.",
+        "In several towns, local stations give theatre groups airtime free of charge, and the groups offer listeners tickets directly without involving the stations."
+      ],
+      "answer": "D",
+      "explanation": "A number of towns, several towns ifadesinin kapsamını korur. Radyolar ücretsiz yayın süresi verir ve tiyatro topluluklarından dinleyicilere ödül olarak dağıtabilecekleri bilet alır. In return karşılıklılığı korur.",
+      "distractors": {
+        "A": "Yayın süresini veren tarafı değiştirir ve istasyonlara kaynakta bulunmayan bir bilet satın alma eylemi yükler.",
+        "B": "Exclusively, radyoların ücretsiz yayın süresini yalnızca bu gruplara verdiği iddiasını ekler.",
+        "C": "Alışverişin iki yönünü korur, ancak several yerine most diyerek söz konusu kasabaların çoğunlukta olduğunu ileri sürer.",
+        "E": "Bilet verme görevini doğrudan tiyatro gruplarına bırakır. Kaynak cümlede biletleri ödül olarak dağıtabilecek taraf radyolardır."
+      }
+    },
+    {
+      "number": 75,
+      "official_key": "D",
+      "page": 27,
+      "day": 5,
+      "type": "Paragraf tamamlama",
+      "skill": "Önceki örneği ve sonraki gönderim ifadesini birlikte tamamlayan cümleyi bulma",
+      "tip": "Boşluktan sonraki this, that veya these gibi ifadelerin tam olarak neye gönderimde bulunduğunu yaz. Aday cümlenin bu göndergeden önceki ayrıntıyla da bağ kurmasını bekle.",
+      "prompt": "Paragrafta boş bırakılan yere en uygun cümleyi seç.\n\nA public library introduced online booking for its free evening workshops. Within a month, several sessions were marked as fully booked days in advance. Yet when the sessions began, staff routinely found rows of empty seats. ---- This discrepancy led the library to add a simple cancellation link and offer released seats to people on a waiting list.",
+      "options": [
+        "Some of the workshops had once been taught outdoors during the summer.",
+        "The registration system allowed readers to look up workshops by subject.",
+        "Several instructors brought extra materials in case the workshops attracted more people than expected.",
+        "The waiting list was longer for photography workshops than for language classes.",
+        "The booking figures thus overstated actual attendance, while unused reservations kept other readers from signing up."
+      ],
+      "answer": "E",
+      "explanation": "E seçeneği önceki iki ayrıntı arasındaki farkı açıkça adlandırır. Sistem doluluk gösterirken fiilî katılım daha düşüktür. This discrepancy bu farka gönderir ve iptal bağlantısı ile bekleme listesi kullanılması, boş kalan yerleri yeniden açma gerekçesine bağlanır.",
+      "distractors": {
+        "A": "Atölyelerin eski yerini belirtir. Rezervasyon ile fiilî katılım arasındaki farkı açıklamaz.",
+        "B": "Sistemin arama özelliğini anlatır. Arama biçimi ile boş koltuklar arasında metinde bir bağ kurulmaz.",
+        "C": "Hazırlık miktarına geçer. Malzeme sayısıyla ilgili beklenti, iptal bağlantısının neden eklendiğini açıklamaz.",
+        "D": "İki atölye türüne talebi kıyaslar. Son cümledeki çözüm, iki listenin uzunluk farkına yönelik değildir."
+      }
+    },
+    {
+      "number": 80,
+      "official_key": "B",
+      "page": 28,
+      "day": 5,
+      "type": "Anlam akışını bozan cümle",
+      "skill": "Ortak konuya değinse de paragrafın işlevsel zincirine katkı vermeyen cümleyi ayırma",
+      "tip": "Her cümleye paragraf içindeki görevini veren kısa bir etiket koy. Şüpheli cümleyi çıkarıp kalan metni okuduğunda neden-sonuç ve gönderim zincirini yeniden denetle.",
+      "prompt": "Paragrafın anlam akışını bozan cümleyi seç.\n\n(I) A coastal town began translating its emergency notices after discovering that many seasonal workers could not read the existing warnings. (II) It first hired interpreters to identify the languages most commonly spoken in temporary housing. (III) The town also grants an annual prize for a short story written in the local dialect. (IV) The resulting translations were tested with residents to check whether each warning made clear where to go and what to bring. (V) After revising the confusing instructions, the town distributed the notices through employers and posted them at bus stops.",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "answer": "C",
+      "explanation": "III belediyenin bir dil girişimini anlatır, ancak paragrafın amacı acil durum duyurularının nasıl erişilebilir hâle getirildiğini açıklamaktır. III çıkarılınca sorun, dil seçimi, çevirinin sınanması ve dağıtım birbirini izler.",
+      "distractors": {
+        "A": "I çeviri girişimini başlatan sorunu ve hedef grubu tanıtır.",
+        "B": "II hangi dillere çeviri yapılacağının nasıl belirlendiğini açıklar.",
+        "D": "IV çevrilen uyarıların hedef kitlenin ihtiyaçları bakımından nasıl sınandığını gösterir.",
+        "E": "V sınamada görülen sorunların giderilmesi ve duyuruların dağıtımıyla süreci tamamlar."
+      }
+    }
+  ]
+}
